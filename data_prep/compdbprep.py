@@ -7,7 +7,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 # 1. Load the embedding model
 embedding_model = HuggingFaceEmbeddings(
     model_name='sentence-transformers/all-mpnet-base-v2',
-    model_kwargs={'device': 'cuda'}
+    model_kwargs={'device': 'cpu'}
 )
 
 # 2. Prepare documents
