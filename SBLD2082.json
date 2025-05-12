@@ -1,0 +1,5973 @@
+{
+    "2019-12-30": {
+        "price": {
+            "max": 975,
+            "min": 975,
+            "close": 975,
+            "prevClose": null,
+            "diff": 975
+        },
+        "numTrans": 2,
+        "tradedShares": 50000,
+        "amount": 48750000,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-01-20": {
+        "price": {
+            "max": 977,
+            "min": 977,
+            "close": 977,
+            "prevClose": 975,
+            "diff": 2
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 48850,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-01-29": {
+        "price": {
+            "max": 959,
+            "min": 959,
+            "close": 959,
+            "prevClose": 977,
+            "diff": -18
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 23975,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-01-30": {
+        "price": {
+            "max": 959,
+            "min": 959,
+            "close": 959,
+            "prevClose": 959,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 23975,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-03-12": {
+        "price": {
+            "max": 978,
+            "min": 960,
+            "close": 978,
+            "prevClose": 959,
+            "diff": 19
+        },
+        "numTrans": 3,
+        "tradedShares": 65,
+        "amount": 62695,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-01": {
+        "price": {
+            "max": 978,
+            "min": 978,
+            "close": 978,
+            "prevClose": 978,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 75,
+        "amount": 73350,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-02": {
+        "price": {
+            "max": 978,
+            "min": 978,
+            "close": 978,
+            "prevClose": 978,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 9780,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-13": {
+        "price": {
+            "max": 997,
+            "min": 997,
+            "close": 997,
+            "prevClose": 978,
+            "diff": 19
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 24925,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-15": {
+        "price": {
+            "max": 1016,
+            "min": 1016,
+            "close": 1016,
+            "prevClose": 997,
+            "diff": 19
+        },
+        "numTrans": 3,
+        "tradedShares": 50,
+        "amount": 50800,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-16": {
+        "price": {
+            "max": 1016,
+            "min": 1016,
+            "close": 1016,
+            "prevClose": 1016,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25400,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-26": {
+        "price": {
+            "max": 1036,
+            "min": 1036,
+            "close": 1036,
+            "prevClose": 1016,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 75,
+        "amount": 77700,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-29": {
+        "price": {
+            "max": 1035,
+            "min": 1035,
+            "close": 1035,
+            "prevClose": 1036,
+            "diff": -1
+        },
+        "numTrans": 1,
+        "tradedShares": 40,
+        "amount": 41400,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-07-30": {
+        "price": {
+            "max": 1035,
+            "min": 1035,
+            "close": 1035,
+            "prevClose": 1035,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25875,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": null,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-08-02": {
+        "price": {
+            "max": 1035,
+            "min": 1035,
+            "close": 1035,
+            "prevClose": 1035,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25875,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": 85.45880176488353,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-08-05": {
+        "price": {
+            "max": 1020,
+            "min": 1015,
+            "close": 1015,
+            "prevClose": 1035,
+            "diff": -20
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 50875,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": 63.08020012411406,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-08-09": {
+        "price": {
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1015,
+            "diff": -5
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25250,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": 58.925817843081454,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-08-10": {
+        "price": {
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1010,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25250,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": 58.925817843081454,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-08-18": {
+        "price": {
+            "max": 1015,
+            "min": 1015,
+            "close": 1015,
+            "prevClose": 1010,
+            "diff": 5
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25375,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": 61.840464053717035,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-08-19": {
+        "price": {
+            "max": 1025,
+            "min": 1008,
+            "close": 1025,
+            "prevClose": 1015,
+            "diff": 10
+        },
+        "numTrans": 3,
+        "tradedShares": 135,
+        "amount": 136655,
+        "indicators": {
+            "SMA": null,
+            "EMA": null,
+            "RSI": 66.89948372433403,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": null,
+            "BB_Low": null,
+            "BB_Mid": null
+        }
+    },
+    "2020-08-23": {
+        "price": {
+            "max": 1014,
+            "min": 1011,
+            "close": 1014,
+            "prevClose": 1025,
+            "diff": -11
+        },
+        "numTrans": 3,
+        "tradedShares": 100,
+        "amount": 101225,
+        "indicators": {
+            "SMA": 1003.15,
+            "EMA": 1007.0721001958461,
+            "RSI": 57.8189594548588,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1053.612956710839,
+            "BB_Low": 952.687043289161,
+            "BB_Mid": 1003.15
+        }
+    },
+    "2020-08-25": {
+        "price": {
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1014,
+            "diff": -4
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 50500,
+        "indicators": {
+            "SMA": 1004.9,
+            "EMA": 1007.3509477962417,
+            "RSI": 54.90073746933263,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1053.738099881138,
+            "BB_Low": 956.0619001188619,
+            "BB_Mid": 1004.9
+        }
+    },
+    "2020-08-26": {
+        "price": {
+            "max": 1016,
+            "min": 1014,
+            "close": 1016,
+            "prevClose": 1010,
+            "diff": 6
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 50750,
+        "indicators": {
+            "SMA": 1006.85,
+            "EMA": 1008.1746670537425,
+            "RSI": 58.300545313268266,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1054.1671216368877,
+            "BB_Low": 959.5328783631124,
+            "BB_Mid": 1006.85
+        }
+    },
+    "2020-08-27": {
+        "price": {
+            "max": 1017,
+            "min": 1015,
+            "close": 1017,
+            "prevClose": 1016,
+            "diff": 1
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 50800,
+        "indicators": {
+            "SMA": 1009.75,
+            "EMA": 1009.0151749533861,
+            "RSI": 58.85723331001031,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1051.7969975146862,
+            "BB_Low": 967.7030024853138,
+            "BB_Mid": 1009.75
+        }
+    },
+    "2020-08-31": {
+        "price": {
+            "max": 1037,
+            "min": 1037,
+            "close": 1037,
+            "prevClose": 1017,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25925,
+        "indicators": {
+            "SMA": 1013.65,
+            "EMA": 1011.680396386397,
+            "RSI": 68.04541118383334,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1050.2629758419064,
+            "BB_Low": 977.0370241580936,
+            "BB_Mid": 1013.65
+        }
+    },
+    "2020-09-06": {
+        "price": {
+            "max": 1021,
+            "min": 1021,
+            "close": 1021,
+            "prevClose": 1037,
+            "diff": -16
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25525,
+        "indicators": {
+            "SMA": 1015.8,
+            "EMA": 1012.5679776829305,
+            "RSI": 57.06581016437476,
+            "MACD": null,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1048.6426551910777,
+            "BB_Low": 982.9573448089222,
+            "BB_Mid": 1015.8
+        }
+    },
+    "2020-09-14": {
+        "price": {
+            "max": 1023,
+            "min": 1023,
+            "close": 1023,
+            "prevClose": 1021,
+            "diff": 2
+        },
+        "numTrans": 1,
+        "tradedShares": 100,
+        "amount": 102300,
+        "indicators": {
+            "SMA": 1018.05,
+            "EMA": 1013.5615036178896,
+            "RSI": 57.97856324982862,
+            "MACD": 9.283037105804397,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1046.0319584732738,
+            "BB_Low": 990.068041526726,
+            "BB_Mid": 1018.05
+        }
+    },
+    "2020-09-15": {
+        "price": {
+            "max": 1023,
+            "min": 1023,
+            "close": 1023,
+            "prevClose": 1023,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 100,
+        "amount": 102300,
+        "indicators": {
+            "SMA": 1020.3,
+            "EMA": 1014.4604080352334,
+            "RSI": 57.97856324982862,
+            "MACD": 8.918711762780276,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1041.4385903030459,
+            "BB_Low": 999.161409696954,
+            "BB_Mid": 1020.3
+        }
+    },
+    "2020-09-16": {
+        "price": {
+            "max": 1027,
+            "min": 1026,
+            "close": 1026,
+            "prevClose": 1023,
+            "diff": 3
+        },
+        "numTrans": 3,
+        "tradedShares": 75,
+        "amount": 77000,
+        "indicators": {
+            "SMA": 1021.75,
+            "EMA": 1015.5594167937826,
+            "RSI": 59.477245693222734,
+            "MACD": 8.770950177644295,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1040.0898473276097,
+            "BB_Low": 1003.4101526723904,
+            "BB_Mid": 1021.75
+        }
+    },
+    "2020-09-21": {
+        "price": {
+            "max": 1026,
+            "min": 1026,
+            "close": 1026,
+            "prevClose": 1026,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25650,
+        "indicators": {
+            "SMA": 1022.25,
+            "EMA": 1016.5537580515175,
+            "RSI": 59.477245693222734,
+            "MACD": 8.555228705784089,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1040.480469001099,
+            "BB_Low": 1004.019530998901,
+            "BB_Mid": 1022.25
+        }
+    },
+    "2020-09-22": {
+        "price": {
+            "max": 1025,
+            "min": 1021,
+            "close": 1025,
+            "prevClose": 1026,
+            "diff": -1
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 51150,
+        "indicators": {
+            "SMA": 1022.7,
+            "EMA": 1017.3581620466111,
+            "RSI": 58.668353333479565,
+            "MACD": 8.208948593007108,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1040.7344115512549,
+            "BB_Low": 1004.6655884487452,
+            "BB_Mid": 1022.7
+        }
+    },
+    "2020-09-24": {
+        "price": {
+            "max": 1035,
+            "min": 1035,
+            "close": 1035,
+            "prevClose": 1025,
+            "diff": 10
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25875,
+        "indicators": {
+            "SMA": 1022.65,
+            "EMA": 1019.0383370897911,
+            "RSI": 63.94852037281928,
+            "MACD": 8.641818036352674,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1040.5416181492908,
+            "BB_Low": 1004.7583818507092,
+            "BB_Mid": 1022.65
+        }
+    },
+    "2020-09-28": {
+        "price": {
+            "max": 1026,
+            "min": 1026,
+            "close": 1026,
+            "prevClose": 1035,
+            "diff": -9
+        },
+        "numTrans": 1,
+        "tradedShares": 35,
+        "amount": 35910,
+        "indicators": {
+            "SMA": 1022.2,
+            "EMA": 1019.701352605049,
+            "RSI": 56.90279450685125,
+            "MACD": 8.164529787847414,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1039.25989448971,
+            "BB_Low": 1005.1401055102903,
+            "BB_Mid": 1022.2
+        }
+    },
+    "2020-09-29": {
+        "price": {
+            "max": 1026,
+            "min": 1026,
+            "close": 1026,
+            "prevClose": 1026,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 28,
+        "amount": 28728,
+        "indicators": {
+            "SMA": 1021.75,
+            "EMA": 1020.3012237855205,
+            "RSI": 56.90279450685125,
+            "MACD": 7.697542928900589,
+            "MACD_Signal": null,
+            "MACD_Hist": null,
+            "BB_High": 1037.8853648858658,
+            "BB_Low": 1005.6146351141342,
+            "BB_Mid": 1021.75
+        }
+    },
+    "2020-10-06": {
+        "price": {
+            "max": 1026,
+            "min": 1026,
+            "close": 1026,
+            "prevClose": 1026,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 51300,
+        "indicators": {
+            "SMA": 1021.3,
+            "EMA": 1020.8439643773756,
+            "RSI": 56.90279450685125,
+            "MACD": 7.243948746775118,
+            "MACD_Signal": 8.234894598436902,
+            "MACD_Hist": -0.9909458516617846,
+            "BB_High": 1036.4009933448112,
+            "BB_Low": 1006.1990066551888,
+            "BB_Mid": 1021.3
+        }
+    },
+    "2020-10-08": {
+        "price": {
+            "max": 1025,
+            "min": 1025,
+            "close": 1025,
+            "prevClose": 1026,
+            "diff": -1
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25625,
+        "indicators": {
+            "SMA": 1021.8,
+            "EMA": 1021.239777293816,
+            "RSI": 56.0458547751648,
+            "MACD": 6.7262444873119875,
+            "MACD_Signal": 7.93316457621192,
+            "MACD_Hist": -1.206920088899932,
+            "BB_High": 1036.6942942095297,
+            "BB_Low": 1006.9057057904702,
+            "BB_Mid": 1021.8
+        }
+    },
+    "2020-10-19": {
+        "price": {
+            "max": 1033,
+            "min": 1033,
+            "close": 1033,
+            "prevClose": 1025,
+            "diff": 8
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25825,
+        "indicators": {
+            "SMA": 1022.95,
+            "EMA": 1022.3597985039288,
+            "RSI": 61.09375406850143,
+            "MACD": 6.882160016367152,
+            "MACD_Signal": 7.722963664242966,
+            "MACD_Hist": -0.8408036478758145,
+            "BB_High": 1037.571559424358,
+            "BB_Low": 1008.3284405756422,
+            "BB_Mid": 1022.95
+        }
+    },
+    "2020-11-01": {
+        "price": {
+            "max": 1035,
+            "min": 1033,
+            "close": 1033,
+            "prevClose": 1033,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 51670,
+        "indicators": {
+            "SMA": 1024.1,
+            "EMA": 1023.3731510273642,
+            "RSI": 61.093754068501426,
+            "MACD": 6.9258868836741385,
+            "MACD_Signal": 7.563548308129201,
+            "MACD_Hist": -0.6376614244550627,
+            "BB_High": 1038.0699677880812,
+            "BB_Low": 1010.1300322119187,
+            "BB_Mid": 1024.1
+        }
+    },
+    "2020-11-03": {
+        "price": {
+            "max": 1053,
+            "min": 1053,
+            "close": 1053,
+            "prevClose": 1033,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26325,
+        "indicators": {
+            "SMA": 1026.0,
+            "EMA": 1026.1947556914247,
+            "RSI": 70.81261563272288,
+            "MACD": 8.476659934884196,
+            "MACD_Signal": 7.746170633480201,
+            "MACD_Hist": 0.7304893014039955,
+            "BB_High": 1044.1989010657244,
+            "BB_Low": 1007.8010989342756,
+            "BB_Mid": 1026.0
+        }
+    },
+    "2020-11-04": {
+        "price": {
+            "max": 1074,
+            "min": 1074,
+            "close": 1074,
+            "prevClose": 1053,
+            "diff": 21
+        },
+        "numTrans": 2,
+        "tradedShares": 75,
+        "amount": 80550,
+        "indicators": {
+            "SMA": 1028.45,
+            "EMA": 1030.7476361017652,
+            "RSI": 77.24124688756355,
+            "MACD": 11.270266628169566,
+            "MACD_Signal": 8.450989832418074,
+            "MACD_Hist": 2.8192767957514917,
+            "BB_High": 1056.1590238009214,
+            "BB_Low": 1000.7409761990788,
+            "BB_Mid": 1028.45
+        }
+    },
+    "2020-11-05": {
+        "price": {
+            "max": 1120,
+            "min": 1095,
+            "close": 1120,
+            "prevClose": 1074,
+            "diff": 46
+        },
+        "numTrans": 4,
+        "tradedShares": 375,
+        "amount": 414250,
+        "indicators": {
+            "SMA": 1033.75,
+            "EMA": 1039.2478612349305,
+            "RSI": 85.02292854502926,
+            "MACD": 17.000069403499538,
+            "MACD_Signal": 10.160805746634367,
+            "MACD_Hist": 6.839263656865171,
+            "BB_High": 1081.6034220301958,
+            "BB_Low": 985.8965779698043,
+            "BB_Mid": 1033.75
+        }
+    },
+    "2020-11-19": {
+        "price": {
+            "max": 1098,
+            "min": 1098,
+            "close": 1098,
+            "prevClose": 1120,
+            "diff": -22
+        },
+        "numTrans": 1,
+        "tradedShares": 110,
+        "amount": 120780,
+        "indicators": {
+            "SMA": 1038.15,
+            "EMA": 1044.84330302208,
+            "RSI": 72.2918831669218,
+            "MACD": 19.540512382421866,
+            "MACD_Signal": 12.036747073791867,
+            "MACD_Hist": 7.503765308629999,
+            "BB_High": 1092.2361350070425,
+            "BB_Low": 984.0638649929576,
+            "BB_Mid": 1038.15
+        }
+    },
+    "2020-11-22": {
+        "price": {
+            "max": 1119,
+            "min": 1115,
+            "close": 1119,
+            "prevClose": 1098,
+            "diff": 21
+        },
+        "numTrans": 2,
+        "tradedShares": 303,
+        "amount": 338657,
+        "indicators": {
+            "SMA": 1043.3,
+            "EMA": 1051.9058455914058,
+            "RSI": 75.98794061122821,
+            "MACD": 22.98341770912816,
+            "MACD_Signal": 14.226081200859127,
+            "MACD_Hist": 8.757336508269034,
+            "BB_High": 1106.7699929100359,
+            "BB_Low": 979.830007089964,
+            "BB_Mid": 1043.3
+        }
+    },
+    "2020-12-28": {
+        "price": {
+            "max": 1097,
+            "min": 1034,
+            "close": 1034,
+            "prevClose": 1119,
+            "diff": -85
+        },
+        "numTrans": 4,
+        "tradedShares": 50,
+        "amount": 52960,
+        "indicators": {
+            "SMA": 1044.15,
+            "EMA": 1050.2005269636527,
+            "RSI": 48.0493890650195,
+            "MACD": 18.638304586643244,
+            "MACD_Signal": 15.108525878015952,
+            "MACD_Hist": 3.5297787086272923,
+            "BB_High": 1106.6360784495237,
+            "BB_Low": 981.6639215504765,
+            "BB_Mid": 1044.15
+        }
+    },
+    "2020-12-29": {
+        "price": {
+            "max": 1075,
+            "min": 1054,
+            "close": 1075,
+            "prevClose": 1034,
+            "diff": 41
+        },
+        "numTrans": 3,
+        "tradedShares": 90,
+        "amount": 96225,
+        "indicators": {
+            "SMA": 1046.05,
+            "EMA": 1052.562381538543,
+            "RSI": 56.38028404295487,
+            "MACD": 18.292266617896985,
+            "MACD_Signal": 15.74527402599216,
+            "MACD_Hist": 2.546992591904825,
+            "BB_High": 1109.8480407222667,
+            "BB_Low": 982.2519592777332,
+            "BB_Mid": 1046.05
+        }
+    },
+    "2020-12-30": {
+        "price": {
+            "max": 1075,
+            "min": 1058,
+            "close": 1075,
+            "prevClose": 1075,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 70,
+        "amount": 74400,
+        "indicators": {
+            "SMA": 1048.75,
+            "EMA": 1054.6992975824912,
+            "RSI": 56.38028404295487,
+            "MACD": 17.812695370384517,
+            "MACD_Signal": 16.15875829487063,
+            "MACD_Hist": 1.6539370755138876,
+            "BB_High": 1112.6495305147073,
+            "BB_Low": 984.8504694852927,
+            "BB_Mid": 1048.75
+        }
+    },
+    "2021-01-03": {
+        "price": {
+            "max": 1070,
+            "min": 1054,
+            "close": 1070,
+            "prevClose": 1075,
+            "diff": -5
+        },
+        "numTrans": 3,
+        "tradedShares": 110,
+        "amount": 116400,
+        "indicators": {
+            "SMA": 1051.1,
+            "EMA": 1056.1565073365396,
+            "RSI": 55.12989916437256,
+            "MACD": 16.835108833212416,
+            "MACD_Signal": 16.294028402538988,
+            "MACD_Hist": 0.5410804306734285,
+            "BB_High": 1114.4936905377813,
+            "BB_Low": 987.7063094622184,
+            "BB_Mid": 1051.1
+        }
+    },
+    "2021-01-04": {
+        "price": {
+            "max": 1070,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1070,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 965,
+        "amount": 1032550,
+        "indicators": {
+            "SMA": 1053.45,
+            "EMA": 1057.4749352092501,
+            "RSI": 55.12989916437256,
+            "MACD": 15.87734036296979,
+            "MACD_Signal": 16.21069079462515,
+            "MACD_Hist": -0.3333504316553615,
+            "BB_High": 1115.9815120559226,
+            "BB_Low": 990.9184879440774,
+            "BB_Mid": 1053.45
+        }
+    },
+    "2021-01-05": {
+        "price": {
+            "max": 1063,
+            "min": 1063,
+            "close": 1063,
+            "prevClose": 1070,
+            "diff": -7
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 53150,
+        "indicators": {
+            "SMA": 1055.3,
+            "EMA": 1058.0011318559882,
+            "RSI": 53.2137141976758,
+            "MACD": 14.38760905023878,
+            "MACD_Signal": 15.846074445747877,
+            "MACD_Hist": -1.4584653955090978,
+            "BB_High": 1116.6517725905292,
+            "BB_Low": 993.9482274094709,
+            "BB_Mid": 1055.3
+        }
+    },
+    "2021-01-07": {
+        "price": {
+            "max": 1084,
+            "min": 1076,
+            "close": 1076,
+            "prevClose": 1063,
+            "diff": 13
+        },
+        "numTrans": 3,
+        "tradedShares": 125,
+        "amount": 134700,
+        "indicators": {
+            "SMA": 1057.8,
+            "EMA": 1059.7153097744654,
+            "RSI": 56.254681883411905,
+            "MACD": 14.093516323167478,
+            "MACD_Signal": 15.495562821231797,
+            "MACD_Hist": -1.402046498064319,
+            "BB_High": 1118.2403838505347,
+            "BB_Low": 997.3596161494652,
+            "BB_Mid": 1057.8
+        }
+    },
+    "2021-01-10": {
+        "price": {
+            "max": 1077,
+            "min": 1071,
+            "close": 1077,
+            "prevClose": 1076,
+            "diff": 1
+        },
+        "numTrans": 3,
+        "tradedShares": 75,
+        "amount": 80625,
+        "indicators": {
+            "SMA": 1060.4,
+            "EMA": 1061.361470748326,
+            "RSI": 56.48896123770889,
+            "MACD": 13.782264000554278,
+            "MACD_Signal": 15.152903057096294,
+            "MACD_Hist": -1.3706390565420161,
+            "BB_High": 1119.4301617819228,
+            "BB_Low": 1001.3698382180773,
+            "BB_Mid": 1060.4
+        }
+    },
+    "2021-01-11": {
+        "price": {
+            "max": 1070,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1077,
+            "diff": -7
+        },
+        "numTrans": 1,
+        "tradedShares": 30,
+        "amount": 32100,
+        "indicators": {
+            "SMA": 1062.15,
+            "EMA": 1062.1841878199139,
+            "RSI": 54.2968635398084,
+            "MACD": 12.822937947218179,
+            "MACD_Signal": 14.686910035120672,
+            "MACD_Hist": -1.8639720879024928,
+            "BB_High": 1120.1302552598727,
+            "BB_Low": 1004.1697447401276,
+            "BB_Mid": 1062.15
+        }
+    },
+    "2021-01-13": {
+        "price": {
+            "max": 1090,
+            "min": 1080,
+            "close": 1080,
+            "prevClose": 1070,
+            "diff": 10
+        },
+        "numTrans": 2,
+        "tradedShares": 37,
+        "amount": 40210,
+        "indicators": {
+            "SMA": 1064.85,
+            "EMA": 1063.880931837065,
+            "RSI": 56.87167566427381,
+            "MACD": 12.722919666716052,
+            "MACD_Signal": 14.294111961439748,
+            "MACD_Hist": -1.571192294723696,
+            "BB_High": 1120.8402670113294,
+            "BB_Low": 1008.8597329886705,
+            "BB_Mid": 1064.85
+        }
+    },
+    "2021-01-17": {
+        "price": {
+            "max": 1070,
+            "min": 1061,
+            "close": 1061,
+            "prevClose": 1080,
+            "diff": -19
+        },
+        "numTrans": 2,
+        "tradedShares": 37,
+        "amount": 39365,
+        "indicators": {
+            "SMA": 1066.6,
+            "EMA": 1063.6065573763922,
+            "RSI": 50.9933776026414,
+            "MACD": 10.983897712855878,
+            "MACD_Signal": 13.632069111722974,
+            "MACD_Hist": -2.6481713988670954,
+            "BB_High": 1119.7390628445773,
+            "BB_Low": 1013.4609371554225,
+            "BB_Mid": 1066.6
+        }
+    },
+    "2021-01-18": {
+        "price": {
+            "max": 1062,
+            "min": 1062,
+            "close": 1062,
+            "prevClose": 1061,
+            "diff": 1
+        },
+        "numTrans": 1,
+        "tradedShares": 75,
+        "amount": 79650,
+        "indicators": {
+            "SMA": 1068.4,
+            "EMA": 1063.4535519119738,
+            "RSI": 51.27881083858285,
+            "MACD": 9.576015581337288,
+            "MACD_Signal": 12.820858405645838,
+            "MACD_Hist": -3.2448428243085505,
+            "BB_High": 1118.2533850405362,
+            "BB_Low": 1018.546614959464,
+            "BB_Mid": 1068.4
+        }
+    },
+    "2021-01-19": {
+        "price": {
+            "max": 1083,
+            "min": 1083,
+            "close": 1083,
+            "prevClose": 1062,
+            "diff": 21
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 27075,
+        "indicators": {
+            "SMA": 1071.3,
+            "EMA": 1065.3151183965479,
+            "RSI": 56.94945506812577,
+            "MACD": 10.039059317824695,
+            "MACD_Signal": 12.26449858808161,
+            "MACD_Hist": -2.2254392702569152,
+            "BB_High": 1117.3178226342786,
+            "BB_Low": 1025.2821773657213,
+            "BB_Mid": 1071.3
+        }
+    },
+    "2021-01-20": {
+        "price": {
+            "max": 1083,
+            "min": 1083,
+            "close": 1083,
+            "prevClose": 1083,
+            "diff": 0
+        },
+        "numTrans": 4,
+        "tradedShares": 135,
+        "amount": 146205,
+        "indicators": {
+            "SMA": 1073.8,
+            "EMA": 1066.999392834972,
+            "RSI": 56.94945506812577,
+            "MACD": 10.28743763766147,
+            "MACD_Signal": 11.869086397997583,
+            "MACD_Hist": -1.5816487603361136,
+            "BB_High": 1116.5392091644185,
+            "BB_Low": 1031.0607908355814,
+            "BB_Mid": 1073.8
+        }
+    },
+    "2021-01-21": {
+        "price": {
+            "max": 1082,
+            "min": 1075,
+            "close": 1082,
+            "prevClose": 1083,
+            "diff": -1
+        },
+        "numTrans": 2,
+        "tradedShares": 75,
+        "amount": 80975,
+        "indicators": {
+            "SMA": 1076.25,
+            "EMA": 1068.4280220887842,
+            "RSI": 56.58573142942107,
+            "MACD": 10.2850282000677,
+            "MACD_Signal": 11.552274758411606,
+            "MACD_Hist": -1.2672465583439063,
+            "BB_High": 1114.7616865379837,
+            "BB_Low": 1037.7383134620163,
+            "BB_Mid": 1076.25
+        }
+    },
+    "2021-01-24": {
+        "price": {
+            "max": 1095,
+            "min": 1075,
+            "close": 1075,
+            "prevClose": 1082,
+            "diff": -7
+        },
+        "numTrans": 2,
+        "tradedShares": 162,
+        "amount": 174390,
+        "indicators": {
+            "SMA": 1077.35,
+            "EMA": 1069.0539247469953,
+            "RSI": 53.986472017432284,
+            "MACD": 9.607527607080101,
+            "MACD_Signal": 11.163325328145305,
+            "MACD_Hist": -1.555797721065204,
+            "BB_High": 1114.3703997817406,
+            "BB_Low": 1040.3296002182592,
+            "BB_Mid": 1077.35
+        }
+    },
+    "2021-01-25": {
+        "price": {
+            "max": 1071,
+            "min": 1071,
+            "close": 1071,
+            "prevClose": 1075,
+            "diff": -4
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 53550,
+        "indicators": {
+            "SMA": 1077.2,
+            "EMA": 1069.2392652472815,
+            "RSI": 52.50235511551259,
+            "MACD": 8.648146485997813,
+            "MACD_Signal": 10.660289559715807,
+            "MACD_Hist": -2.0121430737179935,
+            "BB_High": 1114.2977088241298,
+            "BB_Low": 1040.1022911758703,
+            "BB_Mid": 1077.2
+        }
+    },
+    "2021-01-26": {
+        "price": {
+            "max": 1085,
+            "min": 1080,
+            "close": 1085,
+            "prevClose": 1071,
+            "diff": 14
+        },
+        "numTrans": 2,
+        "tradedShares": 70,
+        "amount": 75750,
+        "indicators": {
+            "SMA": 1075.45,
+            "EMA": 1070.7402876046833,
+            "RSI": 56.96188550591933,
+            "MACD": 8.914749351406272,
+            "MACD_Signal": 10.3111815180539,
+            "MACD_Hist": -1.396432166647628,
+            "BB_High": 1107.2271930793127,
+            "BB_Low": 1043.6728069206874,
+            "BB_Mid": 1075.45
+        }
+    },
+    "2021-01-27": {
+        "price": {
+            "max": 1088,
+            "min": 1064,
+            "close": 1088,
+            "prevClose": 1085,
+            "diff": 3
+        },
+        "numTrans": 5,
+        "tradedShares": 107,
+        "amount": 114831,
+        "indicators": {
+            "SMA": 1074.95,
+            "EMA": 1072.3840697375706,
+            "RSI": 57.87460831983987,
+            "MACD": 9.261349894374234,
+            "MACD_Signal": 10.101215193317968,
+            "MACD_Hist": -0.8398652989437334,
+            "BB_High": 1105.5864162395003,
+            "BB_Low": 1044.3135837604998,
+            "BB_Mid": 1074.95
+        }
+    },
+    "2021-01-31": {
+        "price": {
+            "max": 1070,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1088,
+            "diff": -18
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26750,
+        "indicators": {
+            "SMA": 1072.5,
+            "EMA": 1072.1570154768497,
+            "RSI": 50.899723695974934,
+            "MACD": 7.991463141492659,
+            "MACD_Signal": 9.679264782952906,
+            "MACD_Hist": -1.687801641460247,
+            "BB_High": 1095.552114870439,
+            "BB_Low": 1049.447885129561,
+            "BB_Mid": 1072.5
+        }
+    },
+    "2021-02-02": {
+        "price": {
+            "max": 1065,
+            "min": 1065,
+            "close": 1065,
+            "prevClose": 1070,
+            "diff": -5
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26625,
+        "indicators": {
+            "SMA": 1074.05,
+            "EMA": 1071.4753949552448,
+            "RSI": 49.1285344969576,
+            "MACD": 6.506606418961837,
+            "MACD_Signal": 9.044733110154693,
+            "MACD_Hist": -2.538126691192856,
+            "BB_High": 1089.4314823732927,
+            "BB_Low": 1058.6685176267072,
+            "BB_Mid": 1074.05
+        }
+    },
+    "2021-02-03": {
+        "price": {
+            "max": 1065,
+            "min": 1065,
+            "close": 1065,
+            "prevClose": 1065,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 53250,
+        "indicators": {
+            "SMA": 1073.55,
+            "EMA": 1070.8586906737928,
+            "RSI": 49.1285344969576,
+            "MACD": 5.269107774028043,
+            "MACD_Signal": 8.289608042929363,
+            "MACD_Hist": -3.020500268901319,
+            "BB_High": 1089.4178921095372,
+            "BB_Low": 1057.6821078904627,
+            "BB_Mid": 1073.55
+        }
+    },
+    "2021-02-07": {
+        "price": {
+            "max": 1065,
+            "min": 1065,
+            "close": 1065,
+            "prevClose": 1065,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 53250,
+        "indicators": {
+            "SMA": 1073.05,
+            "EMA": 1070.3007201334315,
+            "RSI": 49.1285344969576,
+            "MACD": 4.23951074139859,
+            "MACD_Signal": 7.479588582623208,
+            "MACD_Hist": -3.2400778412246183,
+            "BB_High": 1089.328513445641,
+            "BB_Low": 1056.771486554359,
+            "BB_Mid": 1073.05
+        }
+    },
+    "2021-02-09": {
+        "price": {
+            "max": 1064,
+            "min": 1044,
+            "close": 1064,
+            "prevClose": 1065,
+            "diff": -1
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 52700,
+        "indicators": {
+            "SMA": 1072.75,
+            "EMA": 1069.7006515492951,
+            "RSI": 48.70517560134494,
+            "MACD": 3.304760807100365,
+            "MACD_Signal": 6.64462302751864,
+            "MACD_Hist": -3.339862220418275,
+            "BB_High": 1089.457782617688,
+            "BB_Low": 1056.042217382312,
+            "BB_Mid": 1072.75
+        }
+    },
+    "2021-02-11": {
+        "price": {
+            "max": 1061,
+            "min": 1061,
+            "close": 1061,
+            "prevClose": 1064,
+            "diff": -3
+        },
+        "numTrans": 1,
+        "tradedShares": 40,
+        "amount": 42440,
+        "indicators": {
+            "SMA": 1072.3,
+            "EMA": 1068.87201806841,
+            "RSI": 47.38591648763906,
+            "MACD": 2.29542953883697,
+            "MACD_Signal": 5.774784329782306,
+            "MACD_Hist": -3.4793547909453357,
+            "BB_High": 1089.7482090771493,
+            "BB_Low": 1054.8517909228506,
+            "BB_Mid": 1072.3
+        }
+    },
+    "2021-02-14": {
+        "price": {
+            "max": 1065,
+            "min": 1062,
+            "close": 1062,
+            "prevClose": 1061,
+            "diff": 1
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 53175,
+        "indicators": {
+            "SMA": 1072.25,
+            "EMA": 1068.2175401571328,
+            "RSI": 47.89257810419536,
+            "MACD": 1.5582562712363597,
+            "MACD_Signal": 4.931478718073117,
+            "MACD_Hist": -3.373222446836757,
+            "BB_High": 1089.8098974940037,
+            "BB_Low": 1054.6901025059963,
+            "BB_Mid": 1072.25
+        }
+    },
+    "2021-02-23": {
+        "price": {
+            "max": 1070,
+            "min": 1065,
+            "close": 1065,
+            "prevClose": 1062,
+            "diff": 3
+        },
+        "numTrans": 2,
+        "tradedShares": 150,
+        "amount": 160375,
+        "indicators": {
+            "SMA": 1071.7,
+            "EMA": 1067.9111077612154,
+            "RSI": 49.46480730736619,
+            "MACD": 1.202257200936856,
+            "MACD_Signal": 4.185634414645865,
+            "MACD_Hist": -2.9833772137090087,
+            "BB_High": 1089.443731287413,
+            "BB_Low": 1053.9562687125872,
+            "BB_Mid": 1071.7
+        }
+    },
+    "2021-02-24": {
+        "price": {
+            "max": 1048,
+            "min": 1048,
+            "close": 1048,
+            "prevClose": 1065,
+            "diff": -17
+        },
+        "numTrans": 1,
+        "tradedShares": 27,
+        "amount": 28296,
+        "indicators": {
+            "SMA": 1070.25,
+            "EMA": 1066.0148117839567,
+            "RSI": 41.77306143326282,
+            "MACD": -0.4464857424707134,
+            "MACD_Signal": 3.259210383222549,
+            "MACD_Hist": -3.7056961256932626,
+            "BB_High": 1090.5760916066006,
+            "BB_Low": 1049.9239083933994,
+            "BB_Mid": 1070.25
+        }
+    },
+    "2021-02-25": {
+        "price": {
+            "max": 1060,
+            "min": 1060,
+            "close": 1060,
+            "prevClose": 1048,
+            "diff": 12
+        },
+        "numTrans": 3,
+        "tradedShares": 100,
+        "amount": 106000,
+        "indicators": {
+            "SMA": 1069.75,
+            "EMA": 1065.441972566437,
+            "RSI": 47.92833143349631,
+            "MACD": -0.7758827979328089,
+            "MACD_Signal": 2.4521917469914776,
+            "MACD_Hist": -3.2280745449242865,
+            "BB_High": 1090.5622560045738,
+            "BB_Low": 1048.9377439954262,
+            "BB_Mid": 1069.75
+        }
+    },
+    "2021-02-28": {
+        "price": {
+            "max": 1062,
+            "min": 1060,
+            "close": 1062,
+            "prevClose": 1060,
+            "diff": 2
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 53050,
+        "indicators": {
+            "SMA": 1068.85,
+            "EMA": 1065.1141656553477,
+            "RSI": 48.89793681888072,
+            "MACD": -0.8655712852844317,
+            "MACD_Signal": 1.7886391405362958,
+            "MACD_Hist": -2.6542104258207275,
+            "BB_High": 1089.3660912456517,
+            "BB_Low": 1048.3339087543482,
+            "BB_Mid": 1068.85
+        }
+    },
+    "2021-03-01": {
+        "price": {
+            "max": 1068,
+            "min": 1048,
+            "close": 1066,
+            "prevClose": 1062,
+            "diff": 4
+        },
+        "numTrans": 3,
+        "tradedShares": 50,
+        "amount": 52870,
+        "indicators": {
+            "SMA": 1069.1,
+            "EMA": 1065.1985308310288,
+            "RSI": 50.868403432426184,
+            "MACD": -0.6068876638614711,
+            "MACD_Signal": 1.3095337796567426,
+            "MACD_Hist": -1.9164214435182136,
+            "BB_High": 1089.3474689776256,
+            "BB_Low": 1048.8525310223743,
+            "BB_Mid": 1069.1
+        }
+    },
+    "2021-03-03": {
+        "price": {
+            "max": 1055,
+            "min": 1055,
+            "close": 1055,
+            "prevClose": 1066,
+            "diff": -11
+        },
+        "numTrans": 1,
+        "tradedShares": 15,
+        "amount": 15825,
+        "indicators": {
+            "SMA": 1068.75,
+            "EMA": 1064.2272421804546,
+            "RSI": 45.65483798872359,
+            "MACD": -1.2747920896540563,
+            "MACD_Signal": 0.7926686057945829,
+            "MACD_Hist": -2.067460695448639,
+            "BB_High": 1089.7059060887357,
+            "BB_Low": 1047.7940939112643,
+            "BB_Mid": 1068.75
+        }
+    },
+    "2021-03-07": {
+        "price": {
+            "max": 1040,
+            "min": 1034,
+            "close": 1036,
+            "prevClose": 1055,
+            "diff": -19
+        },
+        "numTrans": 4,
+        "tradedShares": 150,
+        "amount": 155450,
+        "indicators": {
+            "SMA": 1066.4,
+            "EMA": 1061.5389334013637,
+            "RSI": 38.34452906710316,
+            "MACD": -3.299221003427192,
+            "MACD_Signal": -0.025709316049772113,
+            "MACD_Hist": -3.27351168737742,
+            "BB_High": 1090.709668858294,
+            "BB_Low": 1042.0903311417062,
+            "BB_Mid": 1066.4
+        }
+    },
+    "2021-03-14": {
+        "price": {
+            "max": 1056,
+            "min": 1056,
+            "close": 1056,
+            "prevClose": 1036,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 52800,
+        "indicators": {
+            "SMA": 1065.05,
+            "EMA": 1061.0114159345671,
+            "RSI": 47.81655260371298,
+            "MACD": -3.2522724771420144,
+            "MACD_Signal": -0.6710219482682206,
+            "MACD_Hist": -2.581250528873794,
+            "BB_High": 1088.5061292629432,
+            "BB_Low": 1041.5938707370567,
+            "BB_Mid": 1065.05
+        }
+    },
+    "2021-03-15": {
+        "price": {
+            "max": 1075,
+            "min": 1057,
+            "close": 1075,
+            "prevClose": 1056,
+            "diff": 19
+        },
+        "numTrans": 2,
+        "tradedShares": 75,
+        "amount": 80175,
+        "indicators": {
+            "SMA": 1064.7,
+            "EMA": 1062.343662036037,
+            "RSI": 54.9043894087283,
+            "MACD": -1.6627569938457327,
+            "MACD_Signal": -0.8693689573837231,
+            "MACD_Hist": -0.7933880364620096,
+            "BB_High": 1087.3283008641813,
+            "BB_Low": 1042.0716991358188,
+            "BB_Mid": 1064.7
+        }
+    },
+    "2021-03-16": {
+        "price": {
+            "max": 1080,
+            "min": 1075,
+            "close": 1080,
+            "prevClose": 1075,
+            "diff": 5
+        },
+        "numTrans": 2,
+        "tradedShares": 125,
+        "amount": 134875,
+        "indicators": {
+            "SMA": 1064.95,
+            "EMA": 1064.0252180326047,
+            "RSI": 56.5759137982834,
+            "MACD": 0.00039909128781800973,
+            "MACD_Signal": -0.6954153476494149,
+            "MACD_Hist": 0.6958144389372329,
+            "BB_High": 1088.1316737963398,
+            "BB_Low": 1041.7683262036603,
+            "BB_Mid": 1064.95
+        }
+    },
+    "2021-03-17": {
+        "price": {
+            "max": 1090,
+            "min": 1090,
+            "close": 1090,
+            "prevClose": 1080,
+            "diff": 10
+        },
+        "numTrans": 1,
+        "tradedShares": 125,
+        "amount": 136250,
+        "indicators": {
+            "SMA": 1065.9,
+            "EMA": 1066.4990067914043,
+            "RSI": 59.78636762804293,
+            "MACD": 2.1011578578022636,
+            "MACD_Signal": -0.13610070655907924,
+            "MACD_Hist": 2.2372585643613427,
+            "BB_High": 1091.4335073971422,
+            "BB_Low": 1040.366492602858,
+            "BB_Mid": 1065.9
+        }
+    },
+    "2021-03-23": {
+        "price": {
+            "max": 1070,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1090,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26750,
+        "indicators": {
+            "SMA": 1065.15,
+            "EMA": 1066.8324347160324,
+            "RSI": 51.57379033584594,
+            "MACD": 2.1276650639567833,
+            "MACD_Signal": 0.3166524475440933,
+            "MACD_Hist": 1.81101261641269,
+            "BB_High": 1089.2354728000078,
+            "BB_Low": 1041.0645271999924,
+            "BB_Mid": 1065.15
+        }
+    },
+    "2021-03-24": {
+        "price": {
+            "max": 1072,
+            "min": 1072,
+            "close": 1072,
+            "prevClose": 1070,
+            "diff": 2
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26800,
+        "indicators": {
+            "SMA": 1064.35,
+            "EMA": 1067.324583790696,
+            "RSI": 52.279725664363376,
+            "MACD": 2.283730082295051,
+            "MACD_Signal": 0.7100679744942848,
+            "MACD_Hist": 1.5736621078007662,
+            "BB_High": 1086.316110261034,
+            "BB_Low": 1042.3838897389658,
+            "BB_Mid": 1064.35
+        }
+    },
+    "2021-03-25": {
+        "price": {
+            "max": 1052,
+            "min": 1052,
+            "close": 1052,
+            "prevClose": 1072,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26300,
+        "indicators": {
+            "SMA": 1063.45,
+            "EMA": 1065.8650996201534,
+            "RSI": 45.18601932609134,
+            "MACD": 0.7845362353257315,
+            "MACD_Signal": 0.7249616266605743,
+            "MACD_Hist": 0.05957460866515718,
+            "BB_High": 1085.8863544275782,
+            "BB_Low": 1041.0136455724219,
+            "BB_Mid": 1063.45
+        }
+    },
+    "2021-04-05": {
+        "price": {
+            "max": 1048,
+            "min": 1048,
+            "close": 1048,
+            "prevClose": 1052,
+            "diff": -4
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26200,
+        "indicators": {
+            "SMA": 1062.6,
+            "EMA": 1064.1636615610912,
+            "RSI": 43.9029552663115,
+            "MACD": -0.7180747414770394,
+            "MACD_Signal": 0.4363543530330516,
+            "MACD_Hist": -1.154429094510091,
+            "BB_High": 1086.0042731141111,
+            "BB_Low": 1039.1957268858887,
+            "BB_Mid": 1062.6
+        }
+    },
+    "2021-04-07": {
+        "price": {
+            "max": 1068,
+            "min": 1068,
+            "close": 1068,
+            "prevClose": 1048,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 53400,
+        "indicators": {
+            "SMA": 1062.75,
+            "EMA": 1064.5290271267015,
+            "RSI": 51.3425353006158,
+            "MACD": -0.29170927040831884,
+            "MACD_Signal": 0.2907416283447775,
+            "MACD_Hist": -0.5824508987530963,
+            "BB_High": 1086.2521275632635,
+            "BB_Low": 1039.2478724367365,
+            "BB_Mid": 1062.75
+        }
+    },
+    "2021-04-12": {
+        "price": {
+            "max": 1060,
+            "min": 1048,
+            "close": 1060,
+            "prevClose": 1068,
+            "diff": -8
+        },
+        "numTrans": 2,
+        "tradedShares": 75,
+        "amount": 79200,
+        "indicators": {
+            "SMA": 1062.5,
+            "EMA": 1064.0976912098727,
+            "RSI": 48.56792096744292,
+            "MACD": -0.5925145649223396,
+            "MACD_Signal": 0.1140903896913541,
+            "MACD_Hist": -0.7066049546136937,
+            "BB_High": 1086.0074456289897,
+            "BB_Low": 1038.9925543710103,
+            "BB_Mid": 1062.5
+        }
+    },
+    "2021-04-20": {
+        "price": {
+            "max": 1052,
+            "min": 1052,
+            "close": 1052,
+            "prevClose": 1060,
+            "diff": -8
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 52600,
+        "indicators": {
+            "SMA": 1061.9,
+            "EMA": 1062.9455301422659,
+            "RSI": 45.89680669058835,
+            "MACD": -1.459612564157851,
+            "MACD_Signal": -0.20065020107848694,
+            "MACD_Hist": -1.258962363079364,
+            "BB_High": 1085.8324048102131,
+            "BB_Low": 1037.967595189787,
+            "BB_Mid": 1061.9
+        }
+    },
+    "2021-04-25": {
+        "price": {
+            "max": 1031,
+            "min": 1031,
+            "close": 1031,
+            "prevClose": 1052,
+            "diff": -21
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25775,
+        "indicators": {
+            "SMA": 1060.4,
+            "EMA": 1059.9030987001454,
+            "RSI": 39.72120396487668,
+            "MACD": -3.79754276225799,
+            "MACD_Signal": -0.9200287133143876,
+            "MACD_Hist": -2.8775140489436026,
+            "BB_High": 1087.8692555414216,
+            "BB_Low": 1032.9307444585786,
+            "BB_Mid": 1060.4
+        }
+    },
+    "2021-04-26": {
+        "price": {
+            "max": 1051,
+            "min": 1051,
+            "close": 1051,
+            "prevClose": 1031,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 100,
+        "amount": 105100,
+        "indicators": {
+            "SMA": 1059.85,
+            "EMA": 1059.0551845382267,
+            "RSI": 47.0311298497246,
+            "MACD": -3.9905360198890776,
+            "MACD_Signal": -1.5341301746293257,
+            "MACD_Hist": -2.456405845259752,
+            "BB_High": 1087.6080618919966,
+            "BB_Low": 1032.0919381080032,
+            "BB_Mid": 1059.85
+        }
+    },
+    "2021-05-11": {
+        "price": {
+            "max": 1072,
+            "min": 1072,
+            "close": 1072,
+            "prevClose": 1051,
+            "diff": 21
+        },
+        "numTrans": 1,
+        "tradedShares": 135,
+        "amount": 144720,
+        "indicators": {
+            "SMA": 1060.2,
+            "EMA": 1060.2880241060147,
+            "RSI": 53.418678124172125,
+            "MACD": -2.4210516944447136,
+            "MACD_Signal": -1.7115144785924032,
+            "MACD_Hist": -0.7095372158523103,
+            "BB_High": 1088.3822639260923,
+            "BB_Low": 1032.0177360739078,
+            "BB_Mid": 1060.2
+        }
+    },
+    "2021-05-12": {
+        "price": {
+            "max": 1052,
+            "min": 1052,
+            "close": 1052,
+            "prevClose": 1072,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26300,
+        "indicators": {
+            "SMA": 1060.4,
+            "EMA": 1059.4986884768705,
+            "RSI": 47.53893541496609,
+            "MACD": -2.7592499956554093,
+            "MACD_Signal": -1.9210615820050045,
+            "MACD_Hist": -0.8381884136504048,
+            "BB_High": 1088.288348821684,
+            "BB_Low": 1032.5116511783162,
+            "BB_Mid": 1060.4
+        }
+    },
+    "2021-05-16": {
+        "price": {
+            "max": 1073,
+            "min": 1073,
+            "close": 1073,
+            "prevClose": 1052,
+            "diff": 21
+        },
+        "numTrans": 3,
+        "tradedShares": 75,
+        "amount": 80475,
+        "indicators": {
+            "SMA": 1061.05,
+            "EMA": 1060.7845276695496,
+            "RSI": 53.34565988096634,
+            "MACD": -1.3175620550582607,
+            "MACD_Signal": -1.800361676615656,
+            "MACD_Hist": 0.4827996215573953,
+            "BB_High": 1089.47164667995,
+            "BB_Low": 1032.6283533200499,
+            "BB_Mid": 1061.05
+        }
+    },
+    "2021-05-17": {
+        "price": {
+            "max": 1055,
+            "min": 1055,
+            "close": 1055,
+            "prevClose": 1073,
+            "diff": -18
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26375,
+        "indicators": {
+            "SMA": 1060.7,
+            "EMA": 1060.2336202724496,
+            "RSI": 48.400484254466264,
+            "MACD": -1.6089169499744003,
+            "MACD_Signal": -1.762072731287405,
+            "MACD_Hist": 0.15315578131300467,
+            "BB_High": 1089.2383951896372,
+            "BB_Low": 1032.1616048103629,
+            "BB_Mid": 1060.7
+        }
+    },
+    "2021-05-19": {
+        "price": {
+            "max": 1053,
+            "min": 1053,
+            "close": 1053,
+            "prevClose": 1055,
+            "diff": -2
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26325,
+        "indicators": {
+            "SMA": 1060.05,
+            "EMA": 1059.5447040560257,
+            "RSI": 47.869497520304364,
+            "MACD": -1.9783953781852688,
+            "MACD_Signal": -1.805337260666978,
+            "MACD_Hist": -0.1730581175182908,
+            "BB_High": 1088.668001327834,
+            "BB_Low": 1031.431998672166,
+            "BB_Mid": 1060.05
+        }
+    },
+    "2021-05-23": {
+        "price": {
+            "max": 1048,
+            "min": 1048,
+            "close": 1048,
+            "prevClose": 1053,
+            "diff": -5
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26200,
+        "indicators": {
+            "SMA": 1059.7,
+            "EMA": 1058.4452084316422,
+            "RSI": 46.49616473629248,
+            "MACD": -2.6441873617900455,
+            "MACD_Signal": -1.9731072808915917,
+            "MACD_Hist": -0.6710800808984538,
+            "BB_High": 1088.7248169675524,
+            "BB_Low": 1030.6751830324476,
+            "BB_Mid": 1059.7
+        }
+    },
+    "2021-05-24": {
+        "price": {
+            "max": 1049,
+            "min": 1049,
+            "close": 1049,
+            "prevClose": 1048,
+            "diff": 1
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26225,
+        "indicators": {
+            "SMA": 1060.35,
+            "EMA": 1057.5456647714857,
+            "RSI": 46.824744778370814,
+            "MACD": -3.055913988696375,
+            "MACD_Signal": -2.1896686224525483,
+            "MACD_Hist": -0.8662453662438265,
+            "BB_High": 1087.7600346588601,
+            "BB_Low": 1032.9399653411397,
+            "BB_Mid": 1060.35
+        }
+    },
+    "2021-05-27": {
+        "price": {
+            "max": 1055,
+            "min": 1055,
+            "close": 1055,
+            "prevClose": 1049,
+            "diff": 6
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26375,
+        "indicators": {
+            "SMA": 1060.3,
+            "EMA": 1057.3032205075347,
+            "RSI": 48.854302044672615,
+            "MACD": -2.865034121016606,
+            "MACD_Signal": -2.32474172216536,
+            "MACD_Hist": -0.5402923988512462,
+            "BB_High": 1087.7452181627311,
+            "BB_Low": 1032.8547818372688,
+            "BB_Mid": 1060.3
+        }
+    },
+    "2021-06-02": {
+        "price": {
+            "max": 1055,
+            "min": 1055,
+            "close": 1065,
+            "prevClose": 1055,
+            "diff": 10
+        },
+        "numTrans": 3,
+        "tradedShares": 75,
+        "amount": 80275,
+        "indicators": {
+            "SMA": 1059.8,
+            "EMA": 1058.0362471258647,
+            "RSI": 52.13342367108107,
+            "MACD": -1.8851136079226762,
+            "MACD_Signal": -2.2368160993168233,
+            "MACD_Hist": 0.3517024913941471,
+            "BB_High": 1086.510297639673,
+            "BB_Low": 1033.089702360327,
+            "BB_Mid": 1059.8
+        }
+    },
+    "2021-06-03": {
+        "price": {
+            "max": 1070,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1065,
+            "diff": 5
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 53500,
+        "indicators": {
+            "SMA": 1059.3,
+            "EMA": 1059.1756521614966,
+            "RSI": 53.73075680204736,
+            "MACD": -0.6970264411636435,
+            "MACD_Signal": -1.9288581676861876,
+            "MACD_Hist": 1.231831726522544,
+            "BB_High": 1084.8272403522183,
+            "BB_Low": 1033.7727596477816,
+            "BB_Mid": 1059.3
+        }
+    },
+    "2021-06-06": {
+        "price": {
+            "max": 1070,
+            "min": 1055,
+            "close": 1055,
+            "prevClose": 1070,
+            "diff": -15
+        },
+        "numTrans": 3,
+        "tradedShares": 75,
+        "amount": 79875,
+        "indicators": {
+            "SMA": 1057.55,
+            "EMA": 1058.7779710032587,
+            "RSI": 48.50167094045439,
+            "MACD": -0.9548267926636527,
+            "MACD_Signal": -1.7340518926816806,
+            "MACD_Hist": 0.7792251000180279,
+            "BB_High": 1078.8711162934758,
+            "BB_Low": 1036.2288837065241,
+            "BB_Mid": 1057.55
+        }
+    },
+    "2021-06-07": {
+        "price": {
+            "max": 1060,
+            "min": 1060,
+            "close": 1060,
+            "prevClose": 1055,
+            "diff": 5
+        },
+        "numTrans": 1,
+        "tradedShares": 40,
+        "amount": 42400,
+        "indicators": {
+            "SMA": 1057.05,
+            "EMA": 1058.894354717234,
+            "RSI": 50.24005656502304,
+            "MACD": -0.7470655091649405,
+            "MACD_Signal": -1.5366546159783325,
+            "MACD_Hist": 0.789589106813392,
+            "BB_High": 1077.6361603996454,
+            "BB_Low": 1036.4638396003545,
+            "BB_Mid": 1057.05
+        }
+    },
+    "2021-06-08": {
+        "price": {
+            "max": 1055,
+            "min": 1051,
+            "close": 1051,
+            "prevClose": 1060,
+            "diff": -9
+        },
+        "numTrans": 2,
+        "tradedShares": 25,
+        "amount": 26315,
+        "indicators": {
+            "SMA": 1056.0,
+            "EMA": 1058.1425114108308,
+            "RSI": 47.15450130494206,
+            "MACD": -1.2937247256925275,
+            "MACD_Signal": -1.4880686379211716,
+            "MACD_Hist": 0.1943439122286441,
+            "BB_High": 1075.5448202856903,
+            "BB_Low": 1036.4551797143097,
+            "BB_Mid": 1056.0
+        }
+    },
+    "2021-06-09": {
+        "price": {
+            "max": 1057,
+            "min": 1057,
+            "close": 1057,
+            "prevClose": 1051,
+            "diff": 6
+        },
+        "numTrans": 3,
+        "tradedShares": 30,
+        "amount": 31710,
+        "indicators": {
+            "SMA": 1056.25,
+            "EMA": 1058.0337008002755,
+            "RSI": 49.38624930822279,
+            "MACD": -1.2286432033056371,
+            "MACD_Signal": -1.4361835509980647,
+            "MACD_Hist": 0.20754034769242757,
+            "BB_High": 1075.7115004560267,
+            "BB_Low": 1036.7884995439733,
+            "BB_Mid": 1056.25
+        }
+    },
+    "2021-06-13": {
+        "price": {
+            "max": 1061,
+            "min": 1061,
+            "close": 1061,
+            "prevClose": 1057,
+            "diff": 4
+        },
+        "numTrans": 1,
+        "tradedShares": 20,
+        "amount": 21220,
+        "indicators": {
+            "SMA": 1056.9,
+            "EMA": 1058.3162054859636,
+            "RSI": 50.875702739531,
+            "MACD": -0.8445634555289416,
+            "MACD_Signal": -1.31785953190424,
+            "MACD_Hist": 0.47329607637529847,
+            "BB_High": 1076.0822834928465,
+            "BB_Low": 1037.7177165071537,
+            "BB_Mid": 1056.9
+        }
+    },
+    "2021-06-14": {
+        "price": {
+            "max": 1060,
+            "min": 1060,
+            "close": 1060,
+            "prevClose": 1061,
+            "diff": -1
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26500,
+        "indicators": {
+            "SMA": 1056.5,
+            "EMA": 1058.4765668682528,
+            "RSI": 50.4757890996797,
+            "MACD": -0.613793699230655,
+            "MACD_Signal": -1.1770463653695231,
+            "MACD_Hist": 0.5632526661388682,
+            "BB_High": 1075.0634048600984,
+            "BB_Low": 1037.9365951399016,
+            "BB_Mid": 1056.5
+        }
+    },
+    "2021-06-15": {
+        "price": {
+            "max": 1060,
+            "min": 1060,
+            "close": 1060,
+            "prevClose": 1060,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 53000,
+        "indicators": {
+            "SMA": 1056.5,
+            "EMA": 1058.621655737943,
+            "RSI": 50.4757890996797,
+            "MACD": -0.4259963836211682,
+            "MACD_Signal": -1.026836369019852,
+            "MACD_Hist": 0.6008399853986839,
+            "BB_High": 1075.0634048600984,
+            "BB_Low": 1037.9365951399016,
+            "BB_Mid": 1056.5
+        }
+    },
+    "2021-06-16": {
+        "price": {
+            "max": 1081,
+            "min": 1065,
+            "close": 1081,
+            "prevClose": 1060,
+            "diff": 21
+        },
+        "numTrans": 3,
+        "tradedShares": 100,
+        "amount": 107000,
+        "indicators": {
+            "SMA": 1057.95,
+            "EMA": 1060.7529266200436,
+            "RSI": 58.43349626622068,
+            "MACD": 1.4012066002167103,
+            "MACD_Signal": -0.5412277751725396,
+            "MACD_Hist": 1.94243437538925,
+            "BB_High": 1079.214759580111,
+            "BB_Low": 1036.6852404198892,
+            "BB_Mid": 1057.95
+        }
+    },
+    "2021-06-20": {
+        "price": {
+            "max": 1102,
+            "min": 1102,
+            "close": 1102,
+            "prevClose": 1081,
+            "diff": 21
+        },
+        "numTrans": 1,
+        "tradedShares": 125,
+        "amount": 137750,
+        "indicators": {
+            "SMA": 1061.5,
+            "EMA": 1064.6812193228966,
+            "RSI": 64.56524688829185,
+            "MACD": 4.492021398377801,
+            "MACD_Signal": 0.4654220595375285,
+            "MACD_Hist": 4.026599338840272,
+            "BB_High": 1086.8889739847812,
+            "BB_Low": 1036.1110260152188,
+            "BB_Mid": 1061.5
+        }
+    },
+    "2021-06-22": {
+        "price": {
+            "max": 1080,
+            "min": 1080,
+            "close": 1080,
+            "prevClose": 1102,
+            "diff": -22
+        },
+        "numTrans": 2,
+        "tradedShares": 325,
+        "amount": 351000,
+        "indicators": {
+            "SMA": 1062.95,
+            "EMA": 1066.140150815954,
+            "RSI": 55.35291540303836,
+            "MACD": 5.107423061912868,
+            "MACD_Signal": 1.3938222600125967,
+            "MACD_Hist": 3.713600801900272,
+            "BB_High": 1089.0764234061974,
+            "BB_Low": 1036.8235765938027,
+            "BB_Mid": 1062.95
+        }
+    },
+    "2021-06-24": {
+        "price": {
+            "max": 1099,
+            "min": 1080,
+            "close": 1099,
+            "prevClose": 1080,
+            "diff": 19
+        },
+        "numTrans": 3,
+        "tradedShares": 70,
+        "amount": 75940,
+        "indicators": {
+            "SMA": 1064.3,
+            "EMA": 1069.2696602620538,
+            "RSI": 60.58365069038382,
+            "MACD": 7.047040626654962,
+            "MACD_Signal": 2.52446593334107,
+            "MACD_Hist": 4.522574693313892,
+            "BB_High": 1094.6123737110752,
+            "BB_Low": 1033.9876262889247,
+            "BB_Mid": 1064.3
+        }
+    },
+    "2021-06-27": {
+        "price": {
+            "max": 1099,
+            "min": 1099,
+            "close": 1099,
+            "prevClose": 1099,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 90,
+        "amount": 98910,
+        "indicators": {
+            "SMA": 1066.65,
+            "EMA": 1072.1011211894772,
+            "RSI": 60.58365069038383,
+            "MACD": 8.486375862545174,
+            "MACD_Signal": 3.716847919181891,
+            "MACD_Hist": 4.769527943363283,
+            "BB_High": 1099.9262678195719,
+            "BB_Low": 1033.3737321804283,
+            "BB_Mid": 1066.65
+        }
+    },
+    "2021-06-29": {
+        "price": {
+            "max": 1120,
+            "min": 1120,
+            "close": 1120,
+            "prevClose": 1099,
+            "diff": 21
+        },
+        "numTrans": 2,
+        "tradedShares": 125,
+        "amount": 140000,
+        "indicators": {
+            "SMA": 1069.0,
+            "EMA": 1076.662919171432,
+            "RSI": 65.730201331152,
+            "MACD": 11.192563003341775,
+            "MACD_Signal": 5.211990936013868,
+            "MACD_Hist": 5.980572067327906,
+            "BB_High": 1109.5758548893284,
+            "BB_Low": 1028.4241451106716,
+            "BB_Mid": 1069.0
+        }
+    },
+    "2021-07-04": {
+        "price": {
+            "max": 1100,
+            "min": 1060,
+            "close": 1060,
+            "prevClose": 1120,
+            "diff": -60
+        },
+        "numTrans": 5,
+        "tradedShares": 95,
+        "amount": 103770,
+        "indicators": {
+            "SMA": 1069.25,
+            "EMA": 1075.0759744884383,
+            "RSI": 46.89151064195221,
+            "MACD": 8.398919731848082,
+            "MACD_Signal": 5.849376695180711,
+            "MACD_Hist": 2.5495430366673713,
+            "BB_High": 1109.5383357809658,
+            "BB_Low": 1028.9616642190342,
+            "BB_Mid": 1069.25
+        }
+    },
+    "2021-07-05": {
+        "price": {
+            "max": 1081,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1060,
+            "diff": 10
+        },
+        "numTrans": 6,
+        "tradedShares": 345,
+        "amount": 369425,
+        "indicators": {
+            "SMA": 1070.1,
+            "EMA": 1074.5925483466822,
+            "RSI": 49.489861223590985,
+            "MACD": 6.912174493704924,
+            "MACD_Signal": 6.061936254885554,
+            "MACD_Hist": 0.8502382388193706,
+            "BB_High": 1109.6924235176357,
+            "BB_Low": 1030.5075764823641,
+            "BB_Mid": 1070.1
+        }
+    },
+    "2021-07-07": {
+        "price": {
+            "max": 1069,
+            "min": 1069,
+            "close": 1069,
+            "prevClose": 1070,
+            "diff": -1
+        },
+        "numTrans": 2,
+        "tradedShares": 40,
+        "amount": 42760,
+        "indicators": {
+            "SMA": 1071.15,
+            "EMA": 1074.0599246946172,
+            "RSI": 49.23047167133543,
+            "MACD": 5.588802304348519,
+            "MACD_Signal": 5.967309464778147,
+            "MACD_Hist": -0.37850716042962773,
+            "BB_High": 1109.4345922010386,
+            "BB_Low": 1032.8654077989615,
+            "BB_Mid": 1071.15
+        }
+    },
+    "2021-07-08": {
+        "price": {
+            "max": 1075,
+            "min": 1075,
+            "close": 1075,
+            "prevClose": 1069,
+            "diff": 6
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26875,
+        "indicators": {
+            "SMA": 1072.45,
+            "EMA": 1074.1494556760822,
+            "RSI": 50.89354263725288,
+            "MACD": 4.966914665344348,
+            "MACD_Signal": 5.767230504891387,
+            "MACD_Hist": -0.8003158395470393,
+            "BB_High": 1109.3795274814047,
+            "BB_Low": 1035.5204725185954,
+            "BB_Mid": 1072.45
+        }
+    },
+    "2021-07-11": {
+        "price": {
+            "max": 1075,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1075,
+            "diff": -5
+        },
+        "numTrans": 2,
+        "tradedShares": 75,
+        "amount": 80500,
+        "indicators": {
+            "SMA": 1073.2,
+            "EMA": 1073.7542694212173,
+            "RSI": 49.440124270465425,
+            "MACD": 4.02421734515201,
+            "MACD_Signal": 5.418627872943512,
+            "MACD_Hist": -1.3944105277915018,
+            "BB_High": 1109.2810199412352,
+            "BB_Low": 1037.118980058765,
+            "BB_Mid": 1073.2
+        }
+    },
+    "2021-07-13": {
+        "price": {
+            "max": 1134,
+            "min": 1091,
+            "close": 1134,
+            "prevClose": 1070,
+            "diff": 64
+        },
+        "numTrans": 4,
+        "tradedShares": 155,
+        "amount": 173075,
+        "indicators": {
+            "SMA": 1076.65,
+            "EMA": 1079.491958047768,
+            "RSI": 63.72154462683904,
+            "MACD": 8.345189902321636,
+            "MACD_Signal": 6.003940278819137,
+            "MACD_Hist": 2.341249623502499,
+            "BB_High": 1121.1484269384862,
+            "BB_Low": 1032.151573061514,
+            "BB_Mid": 1076.65
+        }
+    },
+    "2021-08-18": {
+        "price": {
+            "max": 1111.4,
+            "min": 1067.5,
+            "close": 1067.5,
+            "prevClose": 1134,
+            "diff": -66.5
+        },
+        "numTrans": 6,
+        "tradedShares": 235,
+        "amount": 259859.5,
+        "indicators": {
+            "SMA": 1076.525,
+            "EMA": 1078.3498668051236,
+            "RSI": 48.4178240635944,
+            "MACD": 6.330622077855423,
+            "MACD_Signal": 6.069276638626395,
+            "MACD_Hist": 0.26134543922902864,
+            "BB_High": 1121.111404878615,
+            "BB_Low": 1031.938595121385,
+            "BB_Mid": 1076.525
+        }
+    },
+    "2021-08-19": {
+        "price": {
+            "max": 1050,
+            "min": 1029,
+            "close": 1049.5,
+            "prevClose": 1067.5,
+            "diff": -18
+        },
+        "numTrans": 5,
+        "tradedShares": 225,
+        "amount": 234795,
+        "indicators": {
+            "SMA": 1076.25,
+            "EMA": 1075.6022604427308,
+            "RSI": 45.2499740567383,
+            "MACD": 3.2442156959759814,
+            "MACD_Signal": 5.504264450096312,
+            "MACD_Hist": -2.260048754120331,
+            "BB_High": 1121.427981362604,
+            "BB_Low": 1031.072018637396,
+            "BB_Mid": 1076.25
+        }
+    },
+    "2021-08-24": {
+        "price": {
+            "max": 1057,
+            "min": 1035.1,
+            "close": 1057,
+            "prevClose": 1049.5,
+            "diff": 7.5
+        },
+        "numTrans": 4,
+        "tradedShares": 120,
+        "amount": 125752,
+        "indicators": {
+            "SMA": 1076.1,
+            "EMA": 1073.8306165910421,
+            "RSI": 46.81150461961579,
+            "MACD": 1.3874105170566509,
+            "MACD_Signal": 4.68089366348838,
+            "MACD_Hist": -3.293483146431729,
+            "BB_High": 1121.5121129215518,
+            "BB_Low": 1030.687887078448,
+            "BB_Mid": 1076.1
+        }
+    },
+    "2021-08-29": {
+        "price": {
+            "max": 1057,
+            "min": 1036.1,
+            "close": 1036.1,
+            "prevClose": 1057,
+            "diff": -20.9
+        },
+        "numTrans": 2,
+        "tradedShares": 100,
+        "amount": 105177.5,
+        "indicators": {
+            "SMA": 1075.355,
+            "EMA": 1070.2372245347524,
+            "RSI": 43.12069520555367,
+            "MACD": -1.7503987885588685,
+            "MACD_Signal": 3.3946351730789304,
+            "MACD_Hist": -5.1450339616377985,
+            "BB_High": 1122.8317090266353,
+            "BB_Low": 1027.8782909733648,
+            "BB_Mid": 1075.355
+        }
+    },
+    "2021-08-31": {
+        "price": {
+            "max": 1050,
+            "min": 1036.3,
+            "close": 1036.3,
+            "prevClose": 1036.1,
+            "diff": 0.2
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 52157.5,
+        "indicators": {
+            "SMA": 1074.3200000000002,
+            "EMA": 1067.005107912395,
+            "RSI": 43.166873613850605,
+            "MACD": -4.172894412177129,
+            "MACD_Signal": 1.8811292560277184,
+            "MACD_Hist": -6.054023668204848,
+            "BB_High": 1124.1941456067152,
+            "BB_Low": 1024.4458543932851,
+            "BB_Mid": 1074.3200000000002
+        }
+    },
+    "2021-09-01": {
+        "price": {
+            "max": 1045,
+            "min": 1040,
+            "close": 1040,
+            "prevClose": 1036.3,
+            "diff": 3.7
+        },
+        "numTrans": 2,
+        "tradedShares": 100,
+        "amount": 104250,
+        "indicators": {
+            "SMA": 1073.27,
+            "EMA": 1064.4331928731194,
+            "RSI": 44.07151027404528,
+            "MACD": -5.72815002142579,
+            "MACD_Signal": 0.3592734005370166,
+            "MACD_Hist": -6.087423421962807,
+            "BB_High": 1125.0687297141524,
+            "BB_Low": 1021.4712702858476,
+            "BB_Mid": 1073.27
+        }
+    },
+    "2021-09-05": {
+        "price": {
+            "max": 1036.1,
+            "min": 1036.1,
+            "close": 1036.1,
+            "prevClose": 1040,
+            "diff": -3.9
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25902.5,
+        "indicators": {
+            "SMA": 1072.075,
+            "EMA": 1061.7347935518699,
+            "RSI": 43.28934024718875,
+            "MACD": -7.192488176576035,
+            "MACD_Signal": -1.1510789148855938,
+            "MACD_Hist": -6.041409261690441,
+            "BB_High": 1126.0981385611742,
+            "BB_Low": 1018.0518614388259,
+            "BB_Mid": 1072.075
+        }
+    },
+    "2021-09-07": {
+        "price": {
+            "max": 1040,
+            "min": 1040,
+            "close": 1040,
+            "prevClose": 1036.1,
+            "diff": 3.9
+        },
+        "numTrans": 1,
+        "tradedShares": 100,
+        "amount": 104000,
+        "indicators": {
+            "SMA": 1071.075,
+            "EMA": 1059.6648132135965,
+            "RSI": 44.352920573354936,
+            "MACD": -7.9466848716188,
+            "MACD_Signal": -2.5102001062322348,
+            "MACD_Hist": -5.436484765386565,
+            "BB_High": 1126.6726573247456,
+            "BB_Low": 1015.4773426752545,
+            "BB_Mid": 1071.075
+        }
+    },
+    "2021-09-08": {
+        "price": {
+            "max": 1050,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1040,
+            "diff": 10
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26250,
+        "indicators": {
+            "SMA": 1069.525,
+            "EMA": 1058.7443548123015,
+            "RSI": 47.09285397555805,
+            "MACD": -7.64929840908394,
+            "MACD_Signal": -3.538019766802576,
+            "MACD_Hist": -4.1112786422813645,
+            "BB_High": 1125.6553794749318,
+            "BB_Low": 1013.3946205250684,
+            "BB_Mid": 1069.525
+        }
+    },
+    "2021-09-09": {
+        "price": {
+            "max": 1050,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1050,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 35,
+        "amount": 36750,
+        "indicators": {
+            "SMA": 1066.925,
+            "EMA": 1057.9115591158918,
+            "RSI": 47.09285397555805,
+            "MACD": -7.329131825513059,
+            "MACD_Signal": -4.296242178544673,
+            "MACD_Hist": -3.0328896469683864,
+            "BB_High": 1121.595828601731,
+            "BB_Low": 1012.2541713982688,
+            "BB_Mid": 1066.925
+        }
+    },
+    "2021-09-13": {
+        "price": {
+            "max": 1050,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1050,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 52500,
+        "indicators": {
+            "SMA": 1065.425,
+            "EMA": 1057.1580772953307,
+            "RSI": 47.09285397555805,
+            "MACD": -6.994766190800647,
+            "MACD_Signal": -4.8359469809958675,
+            "MACD_Hist": -2.158819209804779,
+            "BB_High": 1120.2246304732055,
+            "BB_Low": 1010.6253695267944,
+            "BB_Mid": 1065.425
+        }
+    },
+    "2021-09-20": {
+        "price": {
+            "max": 1030.1,
+            "min": 1030.1,
+            "close": 1030.1,
+            "prevClose": 1050,
+            "diff": -19.9
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25752.5,
+        "indicators": {
+            "SMA": 1061.98,
+            "EMA": 1054.5811175529184,
+            "RSI": 41.95809018855635,
+            "MACD": -8.240550765418448,
+            "MACD_Signal": -5.516867737880384,
+            "MACD_Hist": -2.7236830275380637,
+            "BB_High": 1116.5661007949818,
+            "BB_Low": 1007.3938992050182,
+            "BB_Mid": 1061.98
+        }
+    },
+    "2021-10-06": {
+        "price": {
+            "max": 1025,
+            "min": 1025,
+            "close": 1025,
+            "prevClose": 1030.1,
+            "diff": -5.1
+        },
+        "numTrans": 1,
+        "tradedShares": 300,
+        "amount": 307500,
+        "indicators": {
+            "SMA": 1058.28,
+            "EMA": 1051.7638682621644,
+            "RSI": 40.73232730470485,
+            "MACD": -9.529521007464837,
+            "MACD_Signal": -6.319398391797275,
+            "MACD_Hist": -3.2101226156675615,
+            "BB_High": 1112.3567084797137,
+            "BB_Low": 1004.2032915202863,
+            "BB_Mid": 1058.28
+        }
+    },
+    "2021-11-08": {
+        "price": {
+            "max": 1025,
+            "min": 1025,
+            "close": 1025,
+            "prevClose": 1025,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25625,
+        "indicators": {
+            "SMA": 1053.53,
+            "EMA": 1049.2149284276725,
+            "RSI": 40.73232730470485,
+            "MACD": -10.430799447729441,
+            "MACD_Signal": -7.141678602983708,
+            "MACD_Hist": -3.2891208447457334,
+            "BB_High": 1101.4223835280725,
+            "BB_Low": 1005.6376164719276,
+            "BB_Mid": 1053.53
+        }
+    },
+    "2021-11-09": {
+        "price": {
+            "max": 1011,
+            "min": 1005,
+            "close": 1011,
+            "prevClose": 1025,
+            "diff": -14
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 50400,
+        "indicators": {
+            "SMA": 1051.08,
+            "EMA": 1045.575411434561,
+            "RSI": 37.26628337357531,
+            "MACD": -12.134868887278571,
+            "MACD_Signal": -8.140316659842682,
+            "MACD_Hist": -3.9945522274358893,
+            "BB_High": 1102.2958022489154,
+            "BB_Low": 999.8641977510846,
+            "BB_Mid": 1051.08
+        }
+    },
+    "2021-11-14": {
+        "price": {
+            "max": 1030,
+            "min": 1030,
+            "close": 1030,
+            "prevClose": 1011,
+            "diff": 19
+        },
+        "numTrans": 1,
+        "tradedShares": 200,
+        "amount": 206000,
+        "indicators": {
+            "SMA": 1049.08,
+            "EMA": 1044.0920389169837,
+            "RSI": 44.205301498140486,
+            "MACD": -11.816007406728431,
+            "MACD_Signal": -8.875454809219832,
+            "MACD_Hist": -2.9405525975085993,
+            "BB_High": 1100.3082968680399,
+            "BB_Low": 997.8517031319601,
+            "BB_Mid": 1049.08
+        }
+    },
+    "2021-11-17": {
+        "price": {
+            "max": 1010.1,
+            "min": 1010.1,
+            "close": 1010.1,
+            "prevClose": 1030,
+            "diff": -19.9
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25252.5,
+        "indicators": {
+            "SMA": 1046.135,
+            "EMA": 1040.854701877271,
+            "RSI": 39.30192756740707,
+            "MACD": -13.018996190836333,
+            "MACD_Signal": -9.704163085543133,
+            "MACD_Hist": -3.3148331052932,
+            "BB_High": 1099.183780381834,
+            "BB_Low": 993.0862196181661,
+            "BB_Mid": 1046.135
+        }
+    },
+    "2021-12-06": {
+        "price": {
+            "max": 1010.1,
+            "min": 1010.1,
+            "close": 1010.1,
+            "prevClose": 1010.1,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 30,
+        "amount": 30303,
+        "indicators": {
+            "SMA": 1042.8899999999999,
+            "EMA": 1037.9256826508642,
+            "RSI": 39.30192756740708,
+            "MACD": -13.813144142022566,
+            "MACD_Signal": -10.52595929683902,
+            "MACD_Hist": -3.287184845183546,
+            "BB_High": 1096.4168119730668,
+            "BB_Low": 989.3631880269328,
+            "BB_Mid": 1042.8899999999999
+        }
+    },
+    "2021-12-07": {
+        "price": {
+            "max": 1011,
+            "min": 1011,
+            "close": 1011,
+            "prevClose": 1010.1,
+            "diff": 0.9
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25275,
+        "indicators": {
+            "SMA": 1039.94,
+            "EMA": 1035.3613319222104,
+            "RSI": 39.653030873934114,
+            "MACD": -14.206130210421634,
+            "MACD_Signal": -11.261993479555542,
+            "MACD_Hist": -2.9441367308660915,
+            "BB_High": 1093.6681453244025,
+            "BB_Low": 986.2118546755977,
+            "BB_Mid": 1039.94
+        }
+    },
+    "2021-12-09": {
+        "price": {
+            "max": 1010.1,
+            "min": 1010.1,
+            "close": 1010.1,
+            "prevClose": 1011,
+            "diff": -0.9
+        },
+        "numTrans": 2,
+        "tradedShares": 145,
+        "amount": 146464.5,
+        "indicators": {
+            "SMA": 1033.7450000000001,
+            "EMA": 1032.9554907867619,
+            "RSI": 39.40754636112658,
+            "MACD": -14.423926928279457,
+            "MACD_Signal": -11.894380169300327,
+            "MACD_Hist": -2.52954675897913,
+            "BB_High": 1067.5359736468213,
+            "BB_Low": 999.954026353179,
+            "BB_Mid": 1033.7450000000001
+        }
+    },
+    "2021-12-13": {
+        "price": {
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1010.1,
+            "diff": -0.1
+        },
+        "numTrans": 1,
+        "tradedShares": 100,
+        "amount": 101000,
+        "indicators": {
+            "SMA": 1030.8700000000001,
+            "EMA": 1030.769253568975,
+            "RSI": 39.37837560534651,
+            "MACD": -14.438167354769007,
+            "MACD_Signal": -12.403137606394063,
+            "MACD_Hist": -2.035029748374944,
+            "BB_High": 1062.3922524575926,
+            "BB_Low": 999.3477475424077,
+            "BB_Mid": 1030.8700000000001
+        }
+    },
+    "2021-12-22": {
+        "price": {
+            "max": 1028,
+            "min": 1028,
+            "close": 1028,
+            "prevClose": 1010,
+            "diff": 18
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25700,
+        "indicators": {
+            "SMA": 1029.795,
+            "EMA": 1030.5055151338345,
+            "RSI": 46.98549427638413,
+            "MACD": -12.848889428459756,
+            "MACD_Signal": -12.492287970807203,
+            "MACD_Hist": -0.3566014576525536,
+            "BB_High": 1060.1472964534846,
+            "BB_Low": 999.4427035465156,
+            "BB_Mid": 1029.795
+        }
+    },
+    "2022-01-03": {
+        "price": {
+            "max": 1048,
+            "min": 1048,
+            "close": 1048,
+            "prevClose": 1028,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26200,
+        "indicators": {
+            "SMA": 1029.345,
+            "EMA": 1032.1716565496597,
+            "RSI": 53.9065730747556,
+            "MACD": -9.86186097418954,
+            "MACD_Signal": -11.96620257148367,
+            "MACD_Hist": 2.1043415972941304,
+            "BB_High": 1058.3055576603804,
+            "BB_Low": 1000.3844423396198,
+            "BB_Mid": 1029.345
+        }
+    },
+    "2022-01-04": {
+        "price": {
+            "max": 1068,
+            "min": 1068,
+            "close": 1068,
+            "prevClose": 1048,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 100,
+        "amount": 106800,
+        "indicators": {
+            "SMA": 1030.94,
+            "EMA": 1035.5838797354063,
+            "RSI": 59.58819131091835,
+            "MACD": -5.813769040226589,
+            "MACD_Signal": -10.735715865232255,
+            "MACD_Hist": 4.921946825005666,
+            "BB_High": 1064.380299041728,
+            "BB_Low": 997.4997009582721,
+            "BB_Mid": 1030.94
+        }
+    },
+    "2022-01-09": {
+        "price": {
+            "max": 1089.3,
+            "min": 1088,
+            "close": 1089.3,
+            "prevClose": 1068,
+            "diff": 21.3
+        },
+        "numTrans": 4,
+        "tradedShares": 770,
+        "amount": 838708,
+        "indicators": {
+            "SMA": 1033.59,
+            "EMA": 1040.6997007129867,
+            "RSI": 64.59369664051746,
+            "MACD": -0.8767879633012399,
+            "MACD_Signal": -8.763930284846053,
+            "MACD_Hist": 7.887142321544813,
+            "BB_High": 1075.6089909445736,
+            "BB_Low": 991.5710090554262,
+            "BB_Mid": 1033.59
+        }
+    },
+    "2022-01-11": {
+        "price": {
+            "max": 1100,
+            "min": 1089,
+            "close": 1100,
+            "prevClose": 1089.3,
+            "diff": 10.7
+        },
+        "numTrans": 3,
+        "tradedShares": 250,
+        "amount": 274200,
+        "indicators": {
+            "SMA": 1036.59,
+            "EMA": 1046.3473482641307,
+            "RSI": 66.81721793073501,
+            "MACD": 3.8547702931307413,
+            "MACD_Signal": -6.2401901692506945,
+            "MACD_Hist": 10.094960462381437,
+            "BB_High": 1087.6138728439946,
+            "BB_Low": 985.5661271560052,
+            "BB_Mid": 1036.59
+        }
+    },
+    "2022-02-17": {
+        "price": {
+            "max": 1078,
+            "min": 1078,
+            "close": 1078,
+            "prevClose": 1100,
+            "diff": -22
+        },
+        "numTrans": 2,
+        "tradedShares": 60,
+        "amount": 64680,
+        "indicators": {
+            "SMA": 1038.685,
+            "EMA": 1049.3618865246897,
+            "RSI": 58.660259113679665,
+            "MACD": 5.762916843975063,
+            "MACD_Signal": -3.839568766605543,
+            "MACD_Hist": 9.602485610580606,
+            "BB_High": 1092.8032880364865,
+            "BB_Low": 984.5667119635135,
+            "BB_Mid": 1038.685
+        }
+    },
+    "2022-03-09": {
+        "price": {
+            "max": 1056.5,
+            "min": 1056.5,
+            "close": 1056.5,
+            "prevClose": 1078,
+            "diff": -21.5
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10565,
+        "indicators": {
+            "SMA": 1039.51,
+            "EMA": 1050.0417068556717,
+            "RSI": 51.98159033805868,
+            "MACD": 5.477129476756318,
+            "MACD_Signal": -1.976229117933171,
+            "MACD_Hist": 7.4533585946894885,
+            "BB_High": 1094.1835365602053,
+            "BB_Low": 984.8364634397947,
+            "BB_Mid": 1039.51
+        }
+    },
+    "2022-07-11": {
+        "price": {
+            "max": 1042,
+            "min": 1042,
+            "close": 1042,
+            "prevClose": 1056.5,
+            "diff": -14.5
+        },
+        "numTrans": 1,
+        "tradedShares": 30,
+        "amount": 31260,
+        "indicators": {
+            "SMA": 1039.1100000000001,
+            "EMA": 1049.2758300122744,
+            "RSI": 48.01145744855363,
+            "MACD": 4.034109408687527,
+            "MACD_Signal": -0.7741614126090315,
+            "MACD_Hist": 4.808270821296559,
+            "BB_High": 1093.5874044903032,
+            "BB_Low": 984.6325955096969,
+            "BB_Mid": 1039.1100000000001
+        }
+    },
+    "2022-07-14": {
+        "price": {
+            "max": 1021.2,
+            "min": 1021.2,
+            "close": 1021.2,
+            "prevClose": 1042,
+            "diff": -20.8
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25530,
+        "indicators": {
+            "SMA": 1037.67,
+            "EMA": 1046.6019414396767,
+            "RSI": 42.94454392275708,
+            "MACD": 1.1983061142327642,
+            "MACD_Signal": -0.37966790724067234,
+            "MACD_Hist": 1.5779740214734366,
+            "BB_High": 1092.4416021310326,
+            "BB_Low": 982.8983978689675,
+            "BB_Mid": 1037.67
+        }
+    },
+    "2022-07-15": {
+        "price": {
+            "max": 1041.6,
+            "min": 1041.6,
+            "close": 1041.6,
+            "prevClose": 1021.2,
+            "diff": 20.4
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10416,
+        "indicators": {
+            "SMA": 1037.25,
+            "EMA": 1046.1255660644695,
+            "RSI": 48.666576754915006,
+            "MACD": 0.5902174235432085,
+            "MACD_Signal": -0.1856908410838962,
+            "MACD_Hist": 0.7759082646271047,
+            "BB_High": 1091.7651905435553,
+            "BB_Low": 982.7348094564449,
+            "BB_Mid": 1037.25
+        }
+    },
+    "2022-09-27": {
+        "price": {
+            "max": 1020.8,
+            "min": 1020.8,
+            "close": 1020.8,
+            "prevClose": 1041.6,
+            "diff": -20.8
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10208,
+        "indicators": {
+            "SMA": 1036.785,
+            "EMA": 1043.713607391663,
+            "RSI": 43.83897530171179,
+            "MACD": -1.55219072356158,
+            "MACD_Signal": -0.45899081757943294,
+            "MACD_Hist": -1.093199905982147,
+            "BB_High": 1091.6934428844977,
+            "BB_Low": 981.8765571155025,
+            "BB_Mid": 1036.785
+        }
+    },
+    "2022-11-08": {
+        "price": {
+            "open": 1000.4,
+            "max": 1000.4,
+            "min": 1000.4,
+            "close": 1000.4,
+            "prevClose": 1020.8,
+            "diff": -20.399999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 15,
+        "amount": 15006,
+        "indicators": {
+            "SMA": 1035.555,
+            "EMA": 1039.5885019257903,
+            "RSI": 39.681408763113446,
+            "MACD": -4.840377269315468,
+            "MACD_Signal": -1.33526810792664,
+            "MACD_Hist": -3.5051091613888277,
+            "BB_High": 1092.5276416800218,
+            "BB_Low": 978.5823583199784,
+            "BB_Mid": 1035.555
+        }
+    },
+    "2022-12-13": {
+        "price": {
+            "open": 980.4,
+            "max": 980.4,
+            "min": 980.4,
+            "close": 980.4,
+            "prevClose": 1000.4,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 49020,
+        "indicators": {
+            "SMA": 1033.325,
+            "EMA": 1033.9515017423817,
+            "RSI": 36.06975190916206,
+            "MACD": -8.956872400383872,
+            "MACD_Signal": -2.8595889664180865,
+            "MACD_Hist": -6.097283433965786,
+            "BB_High": 1095.0673962929864,
+            "BB_Low": 971.5826037070137,
+            "BB_Mid": 1033.325
+        }
+    },
+    "2022-12-21": {
+        "price": {
+            "open": 961,
+            "max": 961,
+            "min": 961,
+            "close": 961,
+            "prevClose": 980.4,
+            "diff": -19.399999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 15,
+        "amount": 14415,
+        "indicators": {
+            "SMA": 1030.825,
+            "EMA": 1027.0037396716787,
+            "RSI": 32.93809422396495,
+            "MACD": -13.627552376002768,
+            "MACD_Signal": -5.013181648335023,
+            "MACD_Hist": -8.614370727667744,
+            "BB_High": 1099.6263335626584,
+            "BB_Low": 962.0236664373416,
+            "BB_Mid": 1030.825
+        }
+    },
+    "2022-12-26": {
+        "price": {
+            "open": 941.8,
+            "max": 941.8,
+            "min": 941.8,
+            "close": 941.8,
+            "prevClose": 961,
+            "diff": -19.200000000000045
+        },
+        "numTrans": 1,
+        "tradedShares": 90,
+        "amount": 84762,
+        "indicators": {
+            "SMA": 1026.415,
+            "EMA": 1018.8890977981855,
+            "RSI": 30.148264906779573,
+            "MACD": -18.66324121871287,
+            "MACD_Signal": -7.7431935624105925,
+            "MACD_Hist": -10.920047656302277,
+            "BB_High": 1105.4136398617104,
+            "BB_Low": 947.4163601382895,
+            "BB_Mid": 1026.415
+        }
+    },
+    "2022-12-28": {
+        "price": {
+            "open": 941.1,
+            "max": 950,
+            "min": 941.1,
+            "close": 950,
+            "prevClose": 941.8,
+            "diff": 8.200000000000045
+        },
+        "numTrans": 2,
+        "tradedShares": 35,
+        "amount": 33027.5,
+        "indicators": {
+            "SMA": 1023.4099999999999,
+            "EMA": 1012.3282313412154,
+            "RSI": 32.76739117773472,
+            "MACD": -21.741763916349328,
+            "MACD_Signal": -10.54290763319834,
+            "MACD_Hist": -11.198856283150988,
+            "BB_High": 1108.9627883823796,
+            "BB_Low": 937.85721161762,
+            "BB_Mid": 1023.4099999999999
+        }
+    },
+    "2023-01-05": {
+        "price": {
+            "open": 950.1,
+            "max": 952,
+            "min": 950.1,
+            "close": 952,
+            "prevClose": 950,
+            "diff": 2
+        },
+        "numTrans": 2,
+        "tradedShares": 40,
+        "amount": 38061,
+        "indicators": {
+            "SMA": 1020.5049999999999,
+            "EMA": 1006.5826854991949,
+            "RSI": 33.42308894758273,
+            "MACD": -23.74639834992388,
+            "MACD_Signal": -13.183605776543448,
+            "MACD_Hist": -10.562792573380431,
+            "BB_High": 1111.4443748603996,
+            "BB_Low": 929.5656251396002,
+            "BB_Mid": 1020.5049999999999
+        }
+    },
+    "2023-01-08": {
+        "price": {
+            "open": 950,
+            "max": 950,
+            "min": 950,
+            "close": 950,
+            "prevClose": 952,
+            "diff": -2
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 23750,
+        "indicators": {
+            "SMA": 1017.4549999999999,
+            "EMA": 1001.1938583087954,
+            "RSI": 33.07569883347389,
+            "MACD": -25.205910816685332,
+            "MACD_Signal": -15.588066784571826,
+            "MACD_Hist": -9.617844032113506,
+            "BB_High": 1113.4179194011954,
+            "BB_Low": 921.4920805988046,
+            "BB_Mid": 1017.4549999999999
+        }
+    },
+    "2023-01-10": {
+        "price": {
+            "open": 955,
+            "max": 955,
+            "min": 955,
+            "close": 955,
+            "prevClose": 950,
+            "diff": 5
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 23875,
+        "indicators": {
+            "SMA": 1014.6999999999998,
+            "EMA": 996.7944432317672,
+            "RSI": 34.89746838749252,
+            "MACD": -25.663296244299886,
+            "MACD_Signal": -17.603112676517437,
+            "MACD_Hist": -8.060183567782449,
+            "BB_High": 1114.4387988698495,
+            "BB_Low": 914.96120113015,
+            "BB_Mid": 1014.6999999999998
+        }
+    },
+    "2023-01-19": {
+        "price": {
+            "open": 936,
+            "max": 936,
+            "min": 936,
+            "close": 936,
+            "prevClose": 955,
+            "diff": -19
+        },
+        "numTrans": 1,
+        "tradedShares": 15,
+        "amount": 14040,
+        "indicators": {
+            "SMA": 1010.9999999999998,
+            "EMA": 991.0044962573131,
+            "RSI": 31.399610682144754,
+            "MACD": -27.2448569497609,
+            "MACD_Signal": -19.53146153116613,
+            "MACD_Hist": -7.7133954185947715,
+            "BB_High": 1116.4864351468962,
+            "BB_Low": 905.5135648531034,
+            "BB_Mid": 1010.9999999999998
+        }
+    },
+    "2023-01-26": {
+        "price": {
+            "open": 920,
+            "max": 920,
+            "min": 920,
+            "close": 920,
+            "prevClose": 936,
+            "diff": -16
+        },
+        "numTrans": 1,
+        "tradedShares": 27,
+        "amount": 24840,
+        "indicators": {
+            "SMA": 1005.6,
+            "EMA": 984.2421632804261,
+            "RSI": 28.783241735749314,
+            "MACD": -29.449842038657494,
+            "MACD_Signal": -21.515137632664402,
+            "MACD_Hist": -7.934704405993092,
+            "BB_High": 1117.890462640424,
+            "BB_Low": 893.3095373595761,
+            "BB_Mid": 1005.6
+        }
+    },
+    "2023-01-29": {
+        "price": {
+            "open": 920,
+            "max": 920,
+            "min": 920,
+            "close": 920,
+            "prevClose": 920,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 46000,
+        "indicators": {
+            "SMA": 999.2,
+            "EMA": 978.1238620156236,
+            "RSI": 28.7832417357493,
+            "MACD": -30.841783723249932,
+            "MACD_Signal": -23.38046685078151,
+            "MACD_Hist": -7.461316872468423,
+            "BB_High": 1115.6097418603808,
+            "BB_Low": 882.7902581396193,
+            "BB_Mid": 999.2
+        }
+    },
+    "2023-01-31": {
+        "price": {
+            "open": 938.4,
+            "max": 938.4,
+            "min": 938.4,
+            "close": 938.4,
+            "prevClose": 920,
+            "diff": 18.399999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 105,
+        "amount": 98532,
+        "indicators": {
+            "SMA": 992.72,
+            "EMA": 974.3406370617547,
+            "RSI": 35.90616384725044,
+            "MACD": -30.113056738548835,
+            "MACD_Signal": -24.726984828334974,
+            "MACD_Hist": -5.386071910213861,
+            "BB_High": 1107.506351105001,
+            "BB_Low": 877.9336488949991,
+            "BB_Mid": 992.72
+        }
+    },
+    "2023-04-06": {
+        "price": {
+            "open": 941,
+            "max": 941,
+            "min": 941,
+            "close": 941,
+            "prevClose": 938.4,
+            "diff": 2.6000000000000227
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 23525,
+        "indicators": {
+            "SMA": 985.305,
+            "EMA": 971.1653382939685,
+            "RSI": 36.867050764645775,
+            "MACD": -28.991540648101477,
+            "MACD_Signal": -25.579895992288275,
+            "MACD_Hist": -3.411644655813202,
+            "BB_High": 1093.126286859324,
+            "BB_Low": 877.4837131406761,
+            "BB_Mid": 985.305
+        }
+    },
+    "2023-04-17": {
+        "price": {
+            "open": 959.8,
+            "max": 959.8,
+            "min": 959.8,
+            "close": 959.8,
+            "prevClose": 941,
+            "diff": 18.799999999999955
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 9598,
+        "indicators": {
+            "SMA": 978.2949999999998,
+            "EMA": 970.0829251231143,
+            "RSI": 43.466818150945365,
+            "MACD": -26.28275692312866,
+            "MACD_Signal": -25.72046817845635,
+            "MACD_Hist": -0.5622887446723084,
+            "BB_High": 1072.7829987088342,
+            "BB_Low": 883.8070012911655,
+            "BB_Mid": 978.2949999999998
+        }
+    },
+    "2023-04-20": {
+        "price": {
+            "open": 942.5,
+            "max": 942.5,
+            "min": 942.2,
+            "close": 942.2,
+            "prevClose": 959.8,
+            "diff": -17.59999999999991
+        },
+        "numTrans": 4,
+        "tradedShares": 100,
+        "amount": 94230.7,
+        "indicators": {
+            "SMA": 971.5049999999999,
+            "EMA": 967.4274084447225,
+            "RSI": 39.322499256272195,
+            "MACD": -25.26496047851333,
+            "MACD_Signal": -25.629366638467747,
+            "MACD_Hist": 0.3644061599544166,
+            "BB_High": 1055.2660762824876,
+            "BB_Low": 887.7439237175122,
+            "BB_Mid": 971.5049999999999
+        }
+    },
+    "2023-04-23": {
+        "price": {
+            "open": 955,
+            "max": 955,
+            "min": 955,
+            "close": 955,
+            "prevClose": 942.2,
+            "diff": 12.799999999999955
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 9550,
+        "indicators": {
+            "SMA": 966.43,
+            "EMA": 966.2438457357013,
+            "RSI": 43.53876227537738,
+            "MACD": -23.158539213034032,
+            "MACD_Signal": -25.135201153381008,
+            "MACD_Hist": 1.9766619403469754,
+            "BB_High": 1040.743850660565,
+            "BB_Low": 892.1161493394349,
+            "BB_Mid": 966.43
+        }
+    },
+    "2023-04-27": {
+        "price": {
+            "open": 974.1,
+            "max": 979,
+            "min": 974.1,
+            "close": 979,
+            "prevClose": 955,
+            "diff": 24
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 48901,
+        "indicators": {
+            "SMA": 963.28,
+            "EMA": 967.4587175703963,
+            "RSI": 50.48602551292121,
+            "MACD": -19.329764270415808,
+            "MACD_Signal": -23.97411377678797,
+            "MACD_Hist": 4.644349506372162,
+            "BB_High": 1029.4033272000192,
+            "BB_Low": 897.1566727999808,
+            "BB_Mid": 963.28
+        }
+    },
+    "2023-05-08": {
+        "price": {
+            "open": 980,
+            "max": 980,
+            "min": 980,
+            "close": 980,
+            "prevClose": 979,
+            "diff": 1
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 24500,
+        "indicators": {
+            "SMA": 961.22,
+            "EMA": 968.6531254208347,
+            "RSI": 50.75790305877265,
+            "MACD": -16.029957528815544,
+            "MACD_Signal": -22.385282527193485,
+            "MACD_Hist": 6.355324998377942,
+            "BB_High": 1022.3778809312489,
+            "BB_Low": 900.0621190687511,
+            "BB_Mid": 961.22
+        }
+    },
+    "2023-05-09": {
+        "price": {
+            "open": 980,
+            "max": 980,
+            "min": 980,
+            "close": 980,
+            "prevClose": 980,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 24500,
+        "indicators": {
+            "SMA": 958.14,
+            "EMA": 969.7337801426601,
+            "RSI": 50.75790305877265,
+            "MACD": -13.26196127794583,
+            "MACD_Signal": -20.560618277343956,
+            "MACD_Hist": 7.298656999398126,
+            "BB_High": 1007.946521661333,
+            "BB_Low": 908.333478338667,
+            "BB_Mid": 958.14
+        }
+    },
+    "2023-05-10": {
+        "price": {
+            "open": 970,
+            "max": 970,
+            "min": 970,
+            "close": 970,
+            "prevClose": 980,
+            "diff": -10
+        },
+        "numTrans": 2,
+        "tradedShares": 25,
+        "amount": 24250,
+        "indicators": {
+            "SMA": 955.6,
+            "EMA": 969.7591344147877,
+            "RSI": 47.719069684469446,
+            "MACD": -11.739890582501403,
+            "MACD_Signal": -18.796472738375446,
+            "MACD_Hist": 7.056582155874043,
+            "BB_High": 996.803883312145,
+            "BB_Low": 914.396116687855,
+            "BB_Mid": 955.6
+        }
+    },
+    "2023-06-08": {
+        "price": {
+            "open": 970,
+            "max": 970,
+            "min": 970,
+            "close": 970,
+            "prevClose": 970,
+            "diff": 0
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 48500,
+        "indicators": {
+            "SMA": 954.0799999999999,
+            "EMA": 969.7820739943318,
+            "RSI": 47.719069684469446,
+            "MACD": -10.413597125016395,
+            "MACD_Signal": -17.119897615703636,
+            "MACD_Hist": 6.706300490687241,
+            "BB_High": 990.5297242788045,
+            "BB_Low": 917.6302757211954,
+            "BB_Mid": 954.0799999999999
+        }
+    },
+    "2023-06-12": {
+        "price": {
+            "open": 989.4,
+            "max": 991,
+            "min": 989.4,
+            "close": 989.4,
+            "prevClose": 970,
+            "diff": 19.399999999999977
+        },
+        "numTrans": 3,
+        "tradedShares": 35,
+        "amount": 34653,
+        "indicators": {
+            "SMA": 954.5300000000001,
+            "EMA": 971.6504478996335,
+            "RSI": 53.92541258997819,
+            "MACD": -7.708226500206024,
+            "MACD_Signal": -15.237563392604114,
+            "MACD_Hist": 7.52933689239809,
+            "BB_High": 992.4605206924565,
+            "BB_Low": 916.5994793075437,
+            "BB_Mid": 954.5300000000001
+        }
+    },
+    "2023-06-19": {
+        "price": {
+            "open": 1000,
+            "max": 1000,
+            "min": 1000,
+            "close": 1000,
+            "prevClose": 989.4,
+            "diff": 10.600000000000023
+        },
+        "numTrans": 2,
+        "tradedShares": 35,
+        "amount": 35000,
+        "indicators": {
+            "SMA": 956.4800000000001,
+            "EMA": 974.3504052425255,
+            "RSI": 56.93369685282314,
+            "MACD": -4.655207047717113,
+            "MACD_Signal": -13.121092123626713,
+            "MACD_Hist": 8.4658850759096,
+            "BB_High": 999.2426753138863,
+            "BB_Low": 913.717324686114,
+            "BB_Mid": 956.4800000000001
+        }
+    },
+    "2023-06-22": {
+        "price": {
+            "open": 1010,
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1000,
+            "diff": 10
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10100,
+        "indicators": {
+            "SMA": 959.8900000000001,
+            "EMA": 977.7456047432373,
+            "RSI": 59.61274530547329,
+            "MACD": -1.412468649924108,
+            "MACD_Signal": -10.779367428886193,
+            "MACD_Hist": 9.366898778962085,
+            "BB_High": 1007.9723418730913,
+            "BB_Low": 911.8076581269089,
+            "BB_Mid": 959.8900000000001
+        }
+    },
+    "2023-06-28": {
+        "price": {
+            "open": 1000,
+            "max": 1000,
+            "min": 1000,
+            "close": 1000,
+            "prevClose": 1010,
+            "diff": -10
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25000,
+        "indicators": {
+            "SMA": 962.3900000000001,
+            "EMA": 979.865070958167,
+            "RSI": 55.86987031855209,
+            "MACD": 0.3465140680038985,
+            "MACD_Signal": -8.554191129508174,
+            "MACD_Hist": 8.900705197512073,
+            "BB_High": 1013.2733135713547,
+            "BB_Low": 911.5066864286455,
+            "BB_Mid": 962.3900000000001
+        }
+    },
+    "2023-07-02": {
+        "price": {
+            "open": 1020,
+            "max": 1020,
+            "min": 1020,
+            "close": 1020,
+            "prevClose": 1000,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25500,
+        "indicators": {
+            "SMA": 965.7900000000002,
+            "EMA": 983.6874451526273,
+            "RSI": 61.126789372071904,
+            "MACD": 3.3161271482267694,
+            "MACD_Signal": -6.1801274739611864,
+            "MACD_Hist": 9.496254622187955,
+            "BB_High": 1022.2263677073639,
+            "BB_Low": 909.3536322926365,
+            "BB_Mid": 965.7900000000002
+        }
+    },
+    "2023-07-04": {
+        "price": {
+            "open": 1000,
+            "max": 1000,
+            "min": 1000,
+            "close": 1000,
+            "prevClose": 1020,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25000,
+        "indicators": {
+            "SMA": 968.2900000000002,
+            "EMA": 985.241021804758,
+            "RSI": 54.17665846970868,
+            "MACD": 4.009514864661014,
+            "MACD_Signal": -4.142199006236746,
+            "MACD_Hist": 8.15171387089776,
+            "BB_High": 1026.1196083334546,
+            "BB_Low": 910.4603916665458,
+            "BB_Mid": 968.2900000000002
+        }
+    },
+    "2023-07-10": {
+        "price": {
+            "open": 1020,
+            "max": 1020,
+            "min": 1020,
+            "close": 1020,
+            "prevClose": 1000,
+            "diff": 20
+        },
+        "numTrans": 2,
+        "tradedShares": 22,
+        "amount": 22440,
+        "indicators": {
+            "SMA": 971.5400000000002,
+            "EMA": 988.5514006804954,
+            "RSI": 59.17547525992201,
+            "MACD": 6.102516467398118,
+            "MACD_Signal": -2.0932559115097735,
+            "MACD_Hist": 8.195772378907892,
+            "BB_High": 1033.1960913454684,
+            "BB_Low": 909.883908654532,
+            "BB_Mid": 971.5400000000002
+        }
+    },
+    "2023-07-11": {
+        "price": {
+            "open": 1040,
+            "max": 1040,
+            "min": 1040,
+            "close": 1040,
+            "prevClose": 1020,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10400,
+        "indicators": {
+            "SMA": 976.7400000000001,
+            "EMA": 993.4512672823529,
+            "RSI": 63.46734367975538,
+            "MACD": 9.268229786153483,
+            "MACD_Signal": 0.1790412280228777,
+            "MACD_Hist": 9.089188558130605,
+            "BB_High": 1042.9068315699087,
+            "BB_Low": 910.5731684300914,
+            "BB_Mid": 976.7400000000001
+        }
+    },
+    "2023-07-13": {
+        "price": {
+            "open": 1019.2,
+            "max": 1019.2,
+            "min": 1019.2,
+            "close": 1019.2,
+            "prevClose": 1040,
+            "diff": -20.799999999999955
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10192,
+        "indicators": {
+            "SMA": 981.7,
+            "EMA": 995.9035275411763,
+            "RSI": 56.78158364478309,
+            "MACD": 9.983609397301962,
+            "MACD_Signal": 2.1399548618786945,
+            "MACD_Hist": 7.843654535423267,
+            "BB_High": 1044.9165168290742,
+            "BB_Low": 918.4834831709259,
+            "BB_Mid": 981.7
+        }
+    },
+    "2023-07-16": {
+        "price": {
+            "open": 1039.5,
+            "max": 1060.2,
+            "min": 1019,
+            "close": 1060.2,
+            "prevClose": 1019.2,
+            "diff": 41
+        },
+        "numTrans": 4,
+        "tradedShares": 180,
+        "amount": 184344.5,
+        "indicators": {
+            "SMA": 988.71,
+            "EMA": 1002.0270011086833,
+            "RSI": 64.67979696657164,
+            "MACD": 13.700973942819473,
+            "MACD_Signal": 4.4521586780668505,
+            "MACD_Hist": 9.248815264752622,
+            "BB_High": 1054.0616610347477,
+            "BB_Low": 923.3583389652524,
+            "BB_Mid": 988.71
+        }
+    },
+    "2023-07-27": {
+        "price": {
+            "open": 1039,
+            "max": 1081,
+            "min": 1039,
+            "close": 1081,
+            "prevClose": 1060.2,
+            "diff": 20.799999999999955
+        },
+        "numTrans": 3,
+        "tradedShares": 70,
+        "amount": 73780,
+        "indicators": {
+            "SMA": 995.8399999999999,
+            "EMA": 1009.5482390983325,
+            "RSI": 67.88618496016767,
+            "MACD": 18.11656184665435,
+            "MACD_Signal": 7.185039311784351,
+            "MACD_Hist": 10.931522534869998,
+            "BB_High": 1068.398676944942,
+            "BB_Low": 923.2813230550577,
+            "BB_Mid": 995.8399999999999
+        }
+    },
+    "2023-08-14": {
+        "price": {
+            "open": 1081,
+            "max": 1081,
+            "min": 1081,
+            "close": 1081,
+            "prevClose": 1081,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 462,
+        "amount": 486024,
+        "indicators": {
+            "SMA": 1002.8399999999999,
+            "EMA": 1016.3531687080151,
+            "RSI": 67.88618496016767,
+            "MACD": 21.369611493856382,
+            "MACD_Signal": 10.021953748198758,
+            "MACD_Hist": 11.347657745657624,
+            "BB_High": 1079.766728774857,
+            "BB_Low": 925.9132712251428,
+            "BB_Mid": 1002.8399999999999
+        }
+    },
+    "2023-08-15": {
+        "price": {
+            "open": 1081,
+            "max": 1081,
+            "min": 1081,
+            "close": 1081,
+            "prevClose": 1081,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 463,
+        "amount": 487076,
+        "indicators": {
+            "SMA": 1008.9,
+            "EMA": 1022.5100097834422,
+            "RSI": 67.88618496016767,
+            "MACD": 23.674768778771522,
+            "MACD_Signal": 12.75251675431331,
+            "MACD_Hist": 10.922252024458212,
+            "BB_High": 1090.2765076665273,
+            "BB_Low": 927.5234923334727,
+            "BB_Mid": 1008.9
+        }
+    },
+    "2023-11-22": {
+        "price": {
+            "open": 1059.4,
+            "max": 1059.4,
+            "min": 1000,
+            "close": 1000,
+            "prevClose": 1081,
+            "diff": -81
+        },
+        "numTrans": 9,
+        "tradedShares": 205,
+        "amount": 211325,
+        "indicators": {
+            "SMA": 1011.79,
+            "EMA": 1020.3661993278763,
+            "RSI": 47.092868573773444,
+            "MACD": 18.749467292265763,
+            "MACD_Signal": 13.951906861903803,
+            "MACD_Hist": 4.79756043036196,
+            "BB_High": 1087.3862406472724,
+            "BB_Low": 936.1937593527274,
+            "BB_Mid": 1011.79
+        }
+    },
+    "2023-11-23": {
+        "price": {
+            "open": 1020,
+            "max": 1020,
+            "min": 1020,
+            "close": 1020,
+            "prevClose": 1000,
+            "diff": 20
+        },
+        "numTrans": 1,
+        "tradedShares": 12,
+        "amount": 12240,
+        "indicators": {
+            "SMA": 1015.04,
+            "EMA": 1020.3313232014119,
+            "RSI": 51.077436412397226,
+            "MACD": 16.272385303781107,
+            "MACD_Signal": 14.416002550279265,
+            "MACD_Hist": 1.8563827535018422,
+            "BB_High": 1086.0400112676068,
+            "BB_Low": 944.039988732393,
+            "BB_Mid": 1015.04
+        }
+    },
+    "2023-11-26": {
+        "price": {
+            "open": 1020,
+            "max": 1020,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1020,
+            "diff": -10
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 50750,
+        "indicators": {
+            "SMA": 1016.5899999999999,
+            "EMA": 1019.3473876584203,
+            "RSI": 49.086824337164984,
+            "MACD": 13.348490466036424,
+            "MACD_Signal": 14.202500133430696,
+            "MACD_Hist": -0.8540096673942728,
+            "BB_High": 1085.7036426474563,
+            "BB_Low": 947.4763573525436,
+            "BB_Mid": 1016.5899999999999
+        }
+    },
+    "2023-11-27": {
+        "price": {
+            "open": 1030.2,
+            "max": 1030.2,
+            "min": 1030.2,
+            "close": 1030.2,
+            "prevClose": 1010,
+            "diff": 20.200000000000045
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10302,
+        "indicators": {
+            "SMA": 1019.1,
+            "EMA": 1020.3809697861899,
+            "RSI": 53.065899089004716,
+            "MACD": 12.516966129159186,
+            "MACD_Signal": 13.865393332576396,
+            "MACD_Hist": -1.3484272034172093,
+            "BB_High": 1086.3367161601477,
+            "BB_Low": 951.8632838398522,
+            "BB_Mid": 1019.1
+        }
+    },
+    "2023-11-28": {
+        "price": {
+            "open": 1009.6,
+            "max": 1009.6,
+            "min": 1009.6,
+            "close": 1009.6,
+            "prevClose": 1030.2,
+            "diff": -20.600000000000023
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25240,
+        "indicators": {
+            "SMA": 1020.5799999999999,
+            "EMA": 1019.3542107589337,
+            "RSI": 48.871158753666144,
+            "MACD": 10.07953861588885,
+            "MACD_Signal": 13.108222389238888,
+            "MACD_Hist": -3.0286837733500374,
+            "BB_High": 1085.574633624633,
+            "BB_Low": 955.585366375367,
+            "BB_Mid": 1020.5799999999999
+        }
+    },
+    "2023-11-30": {
+        "price": {
+            "open": 1000.2,
+            "max": 1000.2,
+            "min": 1000.2,
+            "close": 1000.2,
+            "prevClose": 1009.6,
+            "diff": -9.399999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25005,
+        "indicators": {
+            "SMA": 1022.0899999999999,
+            "EMA": 1017.5300002104639,
+            "RSI": 47.043745527021365,
+            "MACD": 7.30514909847318,
+            "MACD_Signal": 11.947607731085746,
+            "MACD_Hist": -4.642458632612566,
+            "BB_High": 1083.625222433987,
+            "BB_Low": 960.554777566013,
+            "BB_Mid": 1022.0899999999999
+        }
+    },
+    "2023-12-04": {
+        "price": {
+            "open": 998,
+            "max": 998,
+            "min": 998,
+            "close": 998,
+            "prevClose": 1000.2,
+            "diff": -2.2000000000000455
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 24950,
+        "indicators": {
+            "SMA": 1023.49,
+            "EMA": 1015.6700001904197,
+            "RSI": 46.60451588727235,
+            "MACD": 4.872733959774564,
+            "MACD_Signal": 10.53263297682351,
+            "MACD_Hist": -5.6598990170489465,
+            "BB_High": 1081.3876303487477,
+            "BB_Low": 965.5923696512522,
+            "BB_Mid": 1023.49
+        }
+    },
+    "2023-12-12": {
+        "price": {
+            "open": 1017,
+            "max": 1017,
+            "min": 1017,
+            "close": 1017,
+            "prevClose": 998,
+            "diff": 19
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10170,
+        "indicators": {
+            "SMA": 1024.87,
+            "EMA": 1015.7966668389512,
+            "RSI": 50.87075723874925,
+            "MACD": 4.427135387178396,
+            "MACD_Signal": 9.311533458894488,
+            "MACD_Hist": -4.884398071716092,
+            "BB_High": 1080.7315825053338,
+            "BB_Low": 969.008417494666,
+            "BB_Mid": 1024.87
+        }
+    },
+    "2023-12-19": {
+        "price": {
+            "open": 1017,
+            "max": 1017,
+            "min": 1017,
+            "close": 1017,
+            "prevClose": 1017,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25225,
+        "amount": 25855625,
+        "indicators": {
+            "SMA": 1025.7199999999998,
+            "EMA": 1015.9112699971463,
+            "RSI": 50.87075723874925,
+            "MACD": 4.027568011073981,
+            "MACD_Signal": 8.254740369330387,
+            "MACD_Hist": -4.227172358256405,
+            "BB_High": 1080.5498312964776,
+            "BB_Low": 970.8901687035219,
+            "BB_Mid": 1025.7199999999998
+        }
+    },
+    "2024-01-01": {
+        "price": {
+            "open": 1029,
+            "max": 1029,
+            "min": 1029,
+            "close": 1029,
+            "prevClose": 1017,
+            "diff": 12
+        },
+        "numTrans": 1,
+        "tradedShares": 20,
+        "amount": 20580,
+        "indicators": {
+            "SMA": 1026.6699999999998,
+            "EMA": 1017.1578157117038,
+            "RSI": 53.58705296042449,
+            "MACD": 4.625883394341827,
+            "MACD_Signal": 7.528968974332675,
+            "MACD_Hist": -2.903085579990848,
+            "BB_High": 1081.0338519606566,
+            "BB_Low": 972.3061480393429,
+            "BB_Mid": 1026.6699999999998
+        }
+    },
+    "2024-01-04": {
+        "price": {
+            "open": 1008.6,
+            "max": 1008.6,
+            "min": 1008.6,
+            "close": 1008.6,
+            "prevClose": 1029,
+            "diff": -20.399999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25215,
+        "indicators": {
+            "SMA": 1027.1,
+            "EMA": 1016.3427856439225,
+            "RSI": 48.66148884623392,
+            "MACD": 3.414581960784176,
+            "MACD_Signal": 6.706091571622975,
+            "MACD_Hist": -3.2915096108387996,
+            "BB_High": 1080.7445337383056,
+            "BB_Low": 973.4554662616943,
+            "BB_Mid": 1027.1
+        }
+    },
+    "2024-01-09": {
+        "price": {
+            "open": 1005.2,
+            "max": 1005.2,
+            "min": 1005.2,
+            "close": 1005.2,
+            "prevClose": 1008.6,
+            "diff": -3.3999999999999773
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25130,
+        "indicators": {
+            "SMA": 1026.36,
+            "EMA": 1015.2815679635489,
+            "RSI": 47.87170466926246,
+            "MACD": 2.155418934939462,
+            "MACD_Signal": 5.795957044286274,
+            "MACD_Hist": -3.640538109346812,
+            "BB_High": 1080.7786144623346,
+            "BB_Low": 971.9413855376653,
+            "BB_Mid": 1026.36
+        }
+    },
+    "2024-01-10": {
+        "price": {
+            "open": 998,
+            "max": 998,
+            "min": 998,
+            "close": 998,
+            "prevClose": 1005.2,
+            "diff": -7.2000000000000455
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 24950,
+        "indicators": {
+            "SMA": 1026.2599999999998,
+            "EMA": 1013.6357043479728,
+            "RSI": 46.163044323798744,
+            "MACD": 0.5699730436373329,
+            "MACD_Signal": 4.750760244156486,
+            "MACD_Hist": -4.180787200519153,
+            "BB_High": 1080.8789857101008,
+            "BB_Low": 971.6410142898987,
+            "BB_Mid": 1026.2599999999998
+        }
+    },
+    "2024-01-11": {
+        "price": {
+            "open": 1017.9,
+            "max": 1017.9,
+            "min": 1017.9,
+            "close": 1017.9,
+            "prevClose": 998,
+            "diff": 19.899999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 85,
+        "amount": 86521.5,
+        "indicators": {
+            "SMA": 1026.155,
+            "EMA": 1014.041827743404,
+            "RSI": 51.33332141197479,
+            "MACD": 0.9087835499547054,
+            "MACD_Signal": 3.98236490531613,
+            "MACD_Hist": -3.0735813553614246,
+            "BB_High": 1080.8297647457237,
+            "BB_Low": 971.4802352542764,
+            "BB_Mid": 1026.155
+        }
+    },
+    "2024-01-14": {
+        "price": {
+            "open": 1038,
+            "max": 1038,
+            "min": 1038,
+            "close": 1038,
+            "prevClose": 1017.9,
+            "diff": 20.100000000000023
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10380,
+        "indicators": {
+            "SMA": 1026.0549999999998,
+            "EMA": 1016.3235584345084,
+            "RSI": 55.93632875372233,
+            "MACD": 2.76729567256848,
+            "MACD_Signal": 3.7393510587666,
+            "MACD_Hist": -0.9720553861981203,
+            "BB_High": 1080.6353435313501,
+            "BB_Low": 971.4746564686494,
+            "BB_Mid": 1026.0549999999998
+        }
+    },
+    "2024-01-17": {
+        "price": {
+            "open": 1017.3,
+            "max": 1017.3,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1038,
+            "diff": -28
+        },
+        "numTrans": 5,
+        "tradedShares": 140,
+        "amount": 142130,
+        "indicators": {
+            "SMA": 1025.595,
+            "EMA": 1015.721314774079,
+            "RSI": 48.98567416557754,
+            "MACD": 1.9582405472935989,
+            "MACD_Signal": 3.383128956472,
+            "MACD_Hist": -1.424888409178401,
+            "BB_High": 1080.5524553632192,
+            "BB_Low": 970.637544636781,
+            "BB_Mid": 1025.595
+        }
+    },
+    "2024-01-24": {
+        "price": {
+            "open": 1003,
+            "max": 1003,
+            "min": 1002,
+            "close": 1002,
+            "prevClose": 1010,
+            "diff": -8
+        },
+        "numTrans": 2,
+        "tradedShares": 190,
+        "amount": 190405,
+        "indicators": {
+            "SMA": 1022.6850000000001,
+            "EMA": 1014.4145228908334,
+            "RSI": 47.18173337532274,
+            "MACD": 0.6638726793740943,
+            "MACD_Signal": 2.839277701052419,
+            "MACD_Hist": -2.1754050216783245,
+            "BB_High": 1076.1480068365056,
+            "BB_Low": 969.2219931634945,
+            "BB_Mid": 1022.6850000000001
+        }
+    },
+    "2024-02-05": {
+        "price": {
+            "open": 1010,
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1002,
+            "diff": 8
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 50500,
+        "indicators": {
+            "SMA": 1019.135,
+            "EMA": 1013.9940921393254,
+            "RSI": 49.19653015543745,
+            "MACD": 0.2803779375069553,
+            "MACD_Signal": 2.327497748343326,
+            "MACD_Hist": -2.047119810836371,
+            "BB_High": 1065.6101234533085,
+            "BB_Low": 972.6598765466915,
+            "BB_Mid": 1019.135
+        }
+    },
+    "2024-02-08": {
+        "price": {
+            "open": 1010,
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1010,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25250,
+        "indicators": {
+            "SMA": 1015.585,
+            "EMA": 1013.6137024117705,
+            "RSI": 49.19653015543745,
+            "MACD": -0.023276096007293745,
+            "MACD_Signal": 1.8573429794732021,
+            "MACD_Hist": -1.880619075480496,
+            "BB_High": 1052.4734954965677,
+            "BB_Low": 978.6965045034325,
+            "BB_Mid": 1015.585
+        }
+    },
+    "2024-02-12": {
+        "price": {
+            "open": 996,
+            "max": 996,
+            "min": 996,
+            "close": 996,
+            "prevClose": 1010,
+            "diff": -14
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 24900,
+        "indicators": {
+            "SMA": 1011.335,
+            "EMA": 1011.9362069439829,
+            "RSI": 45.661412587527366,
+            "MACD": -1.377725539974108,
+            "MACD_Signal": 1.21032927558374,
+            "MACD_Hist": -2.588054815557848,
+            "BB_High": 1033.9049158173068,
+            "BB_Low": 988.7650841826933,
+            "BB_Mid": 1011.335
+        }
+    },
+    "2024-02-13": {
+        "price": {
+            "open": 1015.9,
+            "max": 1015.9,
+            "min": 1015.9,
+            "close": 1015.9,
+            "prevClose": 996,
+            "diff": 19.899999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25397.5,
+        "indicators": {
+            "SMA": 1012.1300000000001,
+            "EMA": 1012.3137110445559,
+            "RSI": 51.046166040383106,
+            "MACD": -0.8357389158458091,
+            "MACD_Signal": 0.8011156372978303,
+            "MACD_Hist": -1.6368545531436394,
+            "BB_High": 1034.1605333571458,
+            "BB_Low": 990.0994666428544,
+            "BB_Mid": 1012.1300000000001
+        }
+    },
+    "2024-02-15": {
+        "price": {
+            "open": 1010,
+            "max": 1010,
+            "min": 1010,
+            "close": 1010,
+            "prevClose": 1015.9,
+            "diff": -5.899999999999977
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 50500,
+        "indicators": {
+            "SMA": 1011.6300000000001,
+            "EMA": 1012.093357611741,
+            "RSI": 49.48058370696251,
+            "MACD": -0.8722367013198209,
+            "MACD_Signal": 0.4664451695743001,
+            "MACD_Hist": -1.338681870894121,
+            "BB_High": 1033.3754455001574,
+            "BB_Low": 989.8845544998428,
+            "BB_Mid": 1011.6300000000001
+        }
+    },
+    "2024-02-21": {
+        "price": {
+            "open": 1020,
+            "max": 1020,
+            "min": 1020,
+            "close": 1020,
+            "prevClose": 1010,
+            "diff": 10
+        },
+        "numTrans": 2,
+        "tradedShares": 150,
+        "amount": 153000,
+        "indicators": {
+            "SMA": 1012.1300000000001,
+            "EMA": 1012.8463711725276,
+            "RSI": 52.15881093020113,
+            "MACD": -0.09317101528017702,
+            "MACD_Signal": 0.3545219326034047,
+            "MACD_Hist": -0.4476929478835817,
+            "BB_High": 1034.1605333571458,
+            "BB_Low": 990.0994666428544,
+            "BB_Mid": 1012.1300000000001
+        }
+    },
+    "2024-02-22": {
+        "price": {
+            "open": 1012.2,
+            "max": 1012.2,
+            "min": 1012.2,
+            "close": 1012.2,
+            "prevClose": 1020,
+            "diff": -7.7999999999999545
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25305,
+        "indicators": {
+            "SMA": 1011.2299999999999,
+            "EMA": 1012.7848120132393,
+            "RSI": 49.93511972853344,
+            "MACD": -0.10395236080137238,
+            "MACD_Signal": 0.2628270739224493,
+            "MACD_Hist": -0.3667794347238217,
+            "BB_High": 1031.6456900446767,
+            "BB_Low": 990.8143099553232,
+            "BB_Mid": 1011.2299999999999
+        }
+    },
+    "2024-03-12": {
+        "price": {
+            "open": 1015,
+            "max": 1015,
+            "min": 1015,
+            "close": 1015,
+            "prevClose": 1012.2,
+            "diff": 2.7999999999999545
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 25375,
+        "indicators": {
+            "SMA": 1011.5,
+            "EMA": 1012.9957822976927,
+            "RSI": 50.74688158434125,
+            "MACD": 0.11214718171959248,
+            "MACD_Signal": 0.23269109548187797,
+            "MACD_Hist": -0.12054391376228549,
+            "BB_High": 1031.9650922304374,
+            "BB_Low": 991.0349077695626,
+            "BB_Mid": 1011.5
+        }
+    },
+    "2024-03-26": {
+        "price": {
+            "open": 1030,
+            "max": 1030,
+            "min": 1030,
+            "close": 1035.3,
+            "prevClose": 1015,
+            "diff": 20.299999999999955
+        },
+        "numTrans": 4,
+        "tradedShares": 153,
+        "amount": 157605.9,
+        "indicators": {
+            "SMA": 1013.2550000000001,
+            "EMA": 1015.1199935074363,
+            "RSI": 56.28145155331723,
+            "MACD": 1.89955112891721,
+            "MACD_Signal": 0.5660631021689444,
+            "MACD_Hist": 1.3334880267482656,
+            "BB_High": 1035.486731826385,
+            "BB_Low": 991.0232681736151,
+            "BB_Mid": 1013.2550000000001
+        }
+    },
+    "2024-03-28": {
+        "price": {
+            "open": 1055,
+            "max": 1055,
+            "min": 1055,
+            "close": 1056,
+            "prevClose": 1035.3,
+            "diff": 20.700000000000045
+        },
+        "numTrans": 2,
+        "tradedShares": 15,
+        "amount": 15830,
+        "indicators": {
+            "SMA": 1016.1550000000001,
+            "EMA": 1019.0133274591091,
+            "RSI": 61.083661203127456,
+            "MACD": 4.9295735818052435,
+            "MACD_Signal": 1.4387651980962044,
+            "MACD_Hist": 3.490808383709039,
+            "BB_High": 1044.0744179738813,
+            "BB_Low": 988.2355820261189,
+            "BB_Mid": 1016.1550000000001
+        }
+    },
+    "2024-04-01": {
+        "price": {
+            "open": 1036,
+            "max": 1036,
+            "min": 1036,
+            "close": 1036,
+            "prevClose": 1056,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 51800,
+        "indicators": {
+            "SMA": 1017.1050000000001,
+            "EMA": 1020.6311057963368,
+            "RSI": 54.818310804035114,
+            "MACD": 5.651903724873478,
+            "MACD_Signal": 2.281392903451659,
+            "MACD_Hist": 3.3705108214218185,
+            "BB_High": 1046.3369328817012,
+            "BB_Low": 987.8730671182991,
+            "BB_Mid": 1017.1050000000001
+        }
+    },
+    "2024-04-21": {
+        "price": {
+            "open": 1025.5,
+            "max": 1025.5,
+            "min": 1025.1,
+            "close": 1025.1,
+            "prevClose": 1036,
+            "diff": -10.900000000000091
+        },
+        "numTrans": 2,
+        "tradedShares": 60,
+        "amount": 61510,
+        "indicators": {
+            "SMA": 1017.51,
+            "EMA": 1021.0567147681141,
+            "RSI": 51.70559797495304,
+            "MACD": 5.283907070868622,
+            "MACD_Signal": 2.8818957369350517,
+            "MACD_Hist": 2.4020113339335705,
+            "BB_High": 1046.9486073040196,
+            "BB_Low": 988.0713926959804,
+            "BB_Mid": 1017.51
+        }
+    },
+    "2024-04-28": {
+        "price": {
+            "open": 1045.6,
+            "max": 1045.6,
+            "min": 1045.6,
+            "close": 1045.6,
+            "prevClose": 1025.1,
+            "diff": 20.5
+        },
+        "numTrans": 1,
+        "tradedShares": 10,
+        "amount": 10456,
+        "indicators": {
+            "SMA": 1018.3399999999999,
+            "EMA": 1023.3941705044842,
+            "RSI": 56.68691899778394,
+            "MACD": 6.570702774188248,
+            "MACD_Signal": 3.619657144385691,
+            "MACD_Hist": 2.9510456298025574,
+            "BB_High": 1049.8880839354827,
+            "BB_Low": 986.7919160645171,
+            "BB_Mid": 1018.3399999999999
+        }
+    },
+    "2024-04-29": {
+        "price": {
+            "open": 1065,
+            "max": 1066,
+            "min": 1065,
+            "close": 1066,
+            "prevClose": 1045.6,
+            "diff": 20.40000000000009
+        },
+        "numTrans": 2,
+        "tradedShares": 35,
+        "amount": 37285,
+        "indicators": {
+            "SMA": 1021.2099999999998,
+            "EMA": 1027.4518685516762,
+            "RSI": 60.998084224802554,
+            "MACD": 9.13134666967585,
+            "MACD_Signal": 4.7219950494437235,
+            "MACD_Hist": 4.409351620232126,
+            "BB_High": 1058.5952323785775,
+            "BB_Low": 983.8247676214221,
+            "BB_Mid": 1021.2099999999998
+        }
+    },
+    "2024-05-06": {
+        "price": {
+            "open": 1048,
+            "max": 1048,
+            "min": 1046.6,
+            "close": 1046.6,
+            "prevClose": 1066,
+            "diff": -19.40000000000009
+        },
+        "numTrans": 2,
+        "tradedShares": 118,
+        "amount": 123533.8,
+        "indicators": {
+            "SMA": 1023.2800000000001,
+            "EMA": 1029.2755001181831,
+            "RSI": 55.355328284723605,
+            "MACD": 9.485909873608534,
+            "MACD_Signal": 5.6747780142766855,
+            "MACD_Hist": 3.811131859331849,
+            "BB_High": 1061.466154558953,
+            "BB_Low": 985.0938454410472,
+            "BB_Mid": 1023.2800000000001
+        }
+    },
+    "2024-05-09": {
+        "price": {
+            "open": 1050,
+            "max": 1071,
+            "min": 1050,
+            "close": 1071,
+            "prevClose": 1046.6,
+            "diff": 24.40000000000009
+        },
+        "numTrans": 5,
+        "tradedShares": 490,
+        "amount": 514710,
+        "indicators": {
+            "SMA": 1026.93,
+            "EMA": 1033.2492620116896,
+            "RSI": 60.32639423165736,
+            "MACD": 11.60203876701894,
+            "MACD_Signal": 6.860230164825136,
+            "MACD_Hist": 4.741808602193803,
+            "BB_High": 1068.5535077810632,
+            "BB_Low": 985.306492218937,
+            "BB_Mid": 1026.93
+        }
+    },
+    "2024-05-12": {
+        "price": {
+            "open": 1052,
+            "max": 1052,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1071,
+            "diff": -21
+        },
+        "numTrans": 3,
+        "tradedShares": 110,
+        "amount": 115635,
+        "indicators": {
+            "SMA": 1028.535,
+            "EMA": 1034.8445703915286,
+            "RSI": 54.6829295001796,
+            "MACD": 11.452543868499788,
+            "MACD_Signal": 7.778692905560067,
+            "MACD_Hist": 3.6738509629397207,
+            "BB_High": 1071.1066936473076,
+            "BB_Low": 985.9633063526925,
+            "BB_Mid": 1028.535
+        }
+    },
+    "2024-05-15": {
+        "price": {
+            "open": 1071,
+            "max": 1071,
+            "min": 1071,
+            "close": 1071,
+            "prevClose": 1050,
+            "diff": 21
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26775,
+        "indicators": {
+            "SMA": 1030.185,
+            "EMA": 1038.2879446399543,
+            "RSI": 58.83054291644503,
+            "MACD": 12.880118590531993,
+            "MACD_Signal": 8.798978042554452,
+            "MACD_Hist": 4.08114054797754,
+            "BB_High": 1076.4904759180833,
+            "BB_Low": 983.8795240819165,
+            "BB_Mid": 1030.185
+        }
+    },
+    "2024-05-22": {
+        "price": {
+            "open": 1071,
+            "max": 1071,
+            "min": 1071,
+            "close": 1092.4,
+            "prevClose": 1071,
+            "diff": 21.40000000000009
+        },
+        "numTrans": 1,
+        "tradedShares": 1,
+        "amount": 1092.4,
+        "indicators": {
+            "SMA": 1034.3049999999998,
+            "EMA": 1043.4414737218633,
+            "RSI": 62.58825554602301,
+            "MACD": 15.55892934322901,
+            "MACD_Signal": 10.150968302689364,
+            "MACD_Hist": 5.4079610405396465,
+            "BB_High": 1086.9258504302254,
+            "BB_Low": 981.6841495697743,
+            "BB_Mid": 1034.3049999999998
+        }
+    },
+    "2024-05-27": {
+        "price": {
+            "open": 1089,
+            "max": 1089,
+            "min": 1067.3,
+            "close": 1067.3,
+            "prevClose": 1092.4,
+            "diff": -25.100000000000136
+        },
+        "numTrans": 2,
+        "tradedShares": 275,
+        "amount": 298932.5,
+        "indicators": {
+            "SMA": 1037.5700000000002,
+            "EMA": 1045.713714319781,
+            "RSI": 56.1183498798235,
+            "MACD": 15.478123758097354,
+            "MACD_Signal": 11.216399393770963,
+            "MACD_Hist": 4.2617243643263905,
+            "BB_High": 1089.8703288708605,
+            "BB_Low": 985.2696711291399,
+            "BB_Mid": 1037.5700000000002
+        }
+    },
+    "2024-05-29": {
+        "price": {
+            "open": 1068,
+            "max": 1068,
+            "min": 1068,
+            "close": 1068,
+            "prevClose": 1067.3,
+            "diff": 0.7000000000000455
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26700,
+        "indicators": {
+            "SMA": 1040.47,
+            "EMA": 1047.8362177178972,
+            "RSI": 56.254165839138835,
+            "MACD": 15.294266120081375,
+            "MACD_Signal": 12.031972739033046,
+            "MACD_Hist": 3.2622933810483286,
+            "BB_High": 1092.7658927641562,
+            "BB_Low": 988.1741072358438,
+            "BB_Mid": 1040.47
+        }
+    },
+    "2024-05-30": {
+        "price": {
+            "open": 1070,
+            "max": 1070,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1068,
+            "diff": 2
+        },
+        "numTrans": 1,
+        "tradedShares": 50,
+        "amount": 53500,
+        "indicators": {
+            "SMA": 1043.47,
+            "EMA": 1049.9470541257165,
+            "RSI": 56.66683772005904,
+            "MACD": 15.135468641635043,
+            "MACD_Signal": 12.652671919553447,
+            "MACD_Hist": 2.4827967220815967,
+            "BB_High": 1095.3118788239788,
+            "BB_Low": 991.6281211760213,
+            "BB_Mid": 1043.47
+        }
+    },
+    "2024-06-04": {
+        "price": {
+            "open": 1085,
+            "max": 1085,
+            "min": 1085,
+            "close": 1085,
+            "prevClose": 1070,
+            "diff": 15
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 27125,
+        "indicators": {
+            "SMA": 1047.92,
+            "EMA": 1053.2854299232672,
+            "RSI": 59.73476039816203,
+            "MACD": 16.03515188625238,
+            "MACD_Signal": 13.329167912893233,
+            "MACD_Hist": 2.705983973359146,
+            "BB_High": 1097.946377042517,
+            "BB_Low": 997.8936229574831,
+            "BB_Mid": 1047.92
+        }
+    },
+    "2024-06-06": {
+        "price": {
+            "open": 1085,
+            "max": 1085,
+            "min": 1085,
+            "close": 1085,
+            "prevClose": 1085,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 27125,
+        "indicators": {
+            "SMA": 1051.375,
+            "EMA": 1056.3058651686704,
+            "RSI": 59.73476039816203,
+            "MACD": 16.557295147576497,
+            "MACD_Signal": 13.974793359829887,
+            "MACD_Hist": 2.58250178774661,
+            "BB_High": 1101.6225820313778,
+            "BB_Low": 1001.1274179686222,
+            "BB_Mid": 1051.375
+        }
+    },
+    "2024-06-16": {
+        "price": {
+            "open": 1085,
+            "max": 1085,
+            "min": 1080,
+            "close": 1080,
+            "prevClose": 1085,
+            "diff": -5
+        },
+        "numTrans": 2,
+        "tradedShares": 100,
+        "amount": 108250,
+        "indicators": {
+            "SMA": 1054.875,
+            "EMA": 1058.5624494383208,
+            "RSI": 58.14338567520154,
+            "MACD": 16.37883422527966,
+            "MACD_Signal": 14.455601532919841,
+            "MACD_Hist": 1.9232326923598198,
+            "BB_High": 1102.805360941683,
+            "BB_Low": 1006.944639058317,
+            "BB_Mid": 1054.875
+        }
+    },
+    "2024-06-20": {
+        "price": {
+            "open": 1095,
+            "max": 1095,
+            "min": 1095,
+            "close": 1095,
+            "prevClose": 1080,
+            "diff": 15
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 27375,
+        "indicators": {
+            "SMA": 1058.625,
+            "EMA": 1062.032692348957,
+            "RSI": 61.46047822527823,
+            "MACD": 17.24894222946,
+            "MACD_Signal": 15.014269672227874,
+            "MACD_Hist": 2.234672557232125,
+            "BB_High": 1106.789504565084,
+            "BB_Low": 1010.4604954349161,
+            "BB_Mid": 1058.625
+        }
+    },
+    "2024-06-23": {
+        "price": {
+            "open": 1090,
+            "max": 1090,
+            "min": 1090,
+            "close": 1090,
+            "prevClose": 1095,
+            "diff": -5
+        },
+        "numTrans": 1,
+        "tradedShares": 100,
+        "amount": 109000,
+        "indicators": {
+            "SMA": 1062.515,
+            "EMA": 1064.69624545858,
+            "RSI": 59.760394245150344,
+            "MACD": 17.335221238667145,
+            "MACD_Signal": 15.47845998551573,
+            "MACD_Hist": 1.856761253151415,
+            "BB_High": 1107.51625664912,
+            "BB_Low": 1017.5137433508802,
+            "BB_Mid": 1062.515
+        }
+    },
+    "2024-06-26": {
+        "price": {
+            "open": 1070,
+            "max": 1070,
+            "min": 1070,
+            "close": 1070,
+            "prevClose": 1090,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 70,
+        "amount": 74900,
+        "indicators": {
+            "SMA": 1065.265,
+            "EMA": 1065.2013649387152,
+            "RSI": 53.397691993933854,
+            "MACD": 15.609824778773373,
+            "MACD_Signal": 15.504732944167259,
+            "MACD_Hist": 0.10509183460611382,
+            "BB_High": 1104.6925677667282,
+            "BB_Low": 1025.837432233272,
+            "BB_Mid": 1065.265
+        }
+    },
+    "2024-06-30": {
+        "price": {
+            "open": 1085,
+            "max": 1085,
+            "min": 1085,
+            "close": 1085,
+            "prevClose": 1070,
+            "diff": 15
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 27125,
+        "indicators": {
+            "SMA": 1067.75,
+            "EMA": 1067.086949230266,
+            "RSI": 57.087923588688206,
+            "MACD": 15.276709891064456,
+            "MACD_Signal": 15.459128333546698,
+            "MACD_Hist": -0.18241844248224126,
+            "BB_High": 1105.5408189908596,
+            "BB_Low": 1029.9591810091404,
+            "BB_Mid": 1067.75
+        }
+    },
+    "2024-07-04": {
+        "price": {
+            "open": 1065,
+            "max": 1065,
+            "min": 1065,
+            "close": 1065,
+            "prevClose": 1085,
+            "diff": -20
+        },
+        "numTrans": 1,
+        "tradedShares": 15,
+        "amount": 15975,
+        "indicators": {
+            "SMA": 1068.2,
+            "EMA": 1066.888192160717,
+            "RSI": 51.25958585330833,
+            "MACD": 13.246187287975545,
+            "MACD_Signal": 15.016540124432469,
+            "MACD_Hist": -1.770352836456924,
+            "BB_High": 1105.6330869686153,
+            "BB_Low": 1030.7669130313848,
+            "BB_Mid": 1068.2
+        }
+    },
+    "2024-07-11": {
+        "price": {
+            "open": 1086.3,
+            "max": 1151,
+            "min": 1086.3,
+            "close": 1107,
+            "prevClose": 1065,
+            "diff": 42
+        },
+        "numTrans": 11,
+        "tradedShares": 125,
+        "amount": 140716,
+        "indicators": {
+            "SMA": 1071.75,
+            "EMA": 1070.7083643358867,
+            "RSI": 60.40228735303552,
+            "MACD": 14.854795649794823,
+            "MACD_Signal": 14.98419122950494,
+            "MACD_Hist": -0.12939557971011695,
+            "BB_High": 1109.7571835315362,
+            "BB_Low": 1033.7428164684638,
+            "BB_Mid": 1071.75
+        }
+    },
+    "2024-07-14": {
+        "price": {
+            "open": 1129.1,
+            "max": 1145,
+            "min": 1129.1,
+            "close": 1145,
+            "prevClose": 1107,
+            "diff": 38
+        },
+        "numTrans": 2,
+        "tradedShares": 20,
+        "amount": 22741,
+        "indicators": {
+            "SMA": 1077.7450000000001,
+            "EMA": 1077.7837582086595,
+            "RSI": 66.5211993433906,
+            "MACD": 18.977154957205357,
+            "MACD_Signal": 15.782783975045025,
+            "MACD_Hist": 3.1943709821603328,
+            "BB_High": 1121.7751476263688,
+            "BB_Low": 1033.7148523736314,
+            "BB_Mid": 1077.7450000000001
+        }
+    },
+    "2024-07-15": {
+        "price": {
+            "open": 1149.5,
+            "max": 1259.5,
+            "min": 1149.5,
+            "close": 1234.4,
+            "prevClose": 1145,
+            "diff": 89.40000000000009
+        },
+        "numTrans": 14,
+        "tradedShares": 450,
+        "amount": 538224,
+        "indicators": {
+            "SMA": 1087.185,
+            "EMA": 1092.6995907602159,
+            "RSI": 75.94066600944393,
+            "MACD": 29.122283702815594,
+            "MACD_Signal": 18.45068392059914,
+            "MACD_Hist": 10.671599782216454,
+            "BB_High": 1166.4547741891556,
+            "BB_Low": 1007.9152258108442,
+            "BB_Mid": 1087.185
+        }
+    },
+    "2024-07-16": {
+        "price": {
+            "open": 1234.4,
+            "max": 1234.4,
+            "min": 1234.4,
+            "close": 1116.1,
+            "prevClose": 1234.4,
+            "diff": -118.30000000000018
+        },
+        "numTrans": 5,
+        "tradedShares": 5,
+        "amount": 5812.4,
+        "indicators": {
+            "SMA": 1089.69,
+            "EMA": 1094.9282011640048,
+            "RSI": 54.20661723713577,
+            "MACD": 27.301831481252748,
+            "MACD_Signal": 20.220913432729862,
+            "MACD_Hist": 7.080918048522886,
+            "BB_High": 1169.2893190925633,
+            "BB_Low": 1010.0906809074368,
+            "BB_Mid": 1089.69
+        }
+    },
+    "2024-07-17": {
+        "price": {
+            "open": 1116.1,
+            "max": 1116.1,
+            "min": 1050.1,
+            "close": 1050.1,
+            "prevClose": 1116.1,
+            "diff": -66
+        },
+        "numTrans": 5,
+        "tradedShares": 33,
+        "amount": 34718.9,
+        "indicators": {
+            "SMA": 1089.865,
+            "EMA": 1090.6588486721948,
+            "RSI": 46.25322924815246,
+            "MACD": 20.299462003034023,
+            "MACD_Signal": 20.236623146790695,
+            "MACD_Hist": 0.06283885624332797,
+            "BB_High": 1169.0991662415888,
+            "BB_Low": 1010.6308337584113,
+            "BB_Mid": 1089.865
+        }
+    },
+    "2024-07-18": {
+        "price": {
+            "open": 1030,
+            "max": 1030,
+            "min": 1030,
+            "close": 1030,
+            "prevClose": 1050.1,
+            "diff": -20.09999999999991
+        },
+        "numTrans": 1,
+        "tradedShares": 24,
+        "amount": 24720,
+        "indicators": {
+            "SMA": 1087.815,
+            "EMA": 1084.8818154653193,
+            "RSI": 44.12965616445513,
+            "MACD": 12.978523386161442,
+            "MACD_Signal": 18.785003194664846,
+            "MACD_Hist": -5.806479808503404,
+            "BB_High": 1170.9223348146825,
+            "BB_Low": 1004.7076651853176,
+            "BB_Mid": 1087.815
+        }
+    },
+    "2024-07-25": {
+        "price": {
+            "open": 1030.1,
+            "max": 1050.6,
+            "min": 1030,
+            "close": 1050.6,
+            "prevClose": 1030,
+            "diff": 20.59999999999991
+        },
+        "numTrans": 3,
+        "tradedShares": 35,
+        "amount": 36257,
+        "indicators": {
+            "SMA": 1087.8449999999998,
+            "EMA": 1081.6168806590983,
+            "RSI": 46.82425774344393,
+            "MACD": 8.738146710421688,
+            "MACD_Signal": 16.775631897816215,
+            "MACD_Hist": -8.037485187394527,
+            "BB_High": 1170.8981269730389,
+            "BB_Low": 1004.7918730269608,
+            "BB_Mid": 1087.8449999999998
+        }
+    },
+    "2024-07-29": {
+        "price": {
+            "open": 1050.6,
+            "max": 1050.6,
+            "min": 1050.6,
+            "close": 1071.6,
+            "prevClose": 1050.6,
+            "diff": 21
+        },
+        "numTrans": 1,
+        "tradedShares": 1,
+        "amount": 1071.6,
+        "indicators": {
+            "SMA": 1087.875,
+            "EMA": 1080.6628920248986,
+            "RSI": 49.49822810692335,
+            "MACD": 6.991547927885904,
+            "MACD_Signal": 14.818815103830154,
+            "MACD_Hist": -7.82726717594425,
+            "BB_High": 1170.9041966720124,
+            "BB_Low": 1004.8458033279875,
+            "BB_Mid": 1087.875
+        }
+    },
+    "2024-07-30": {
+        "price": {
+            "open": 1071.6,
+            "max": 1071.6,
+            "min": 1071.6,
+            "close": 1092.9,
+            "prevClose": 1071.6,
+            "diff": 21.300000000000182
+        },
+        "numTrans": 1,
+        "tradedShares": 1,
+        "amount": 1092.9,
+        "indicators": {
+            "SMA": 1087.9,
+            "EMA": 1081.8283308796701,
+            "RSI": 52.12772170267702,
+            "MACD": 7.242599617604128,
+            "MACD_Signal": 13.303572006584949,
+            "MACD_Hist": -6.0609723889808205,
+            "BB_High": 1170.9349324079917,
+            "BB_Low": 1004.8650675920085,
+            "BB_Mid": 1087.9
+        }
+    },
+    "2024-07-31": {
+        "price": {
+            "open": 1071.1,
+            "max": 1071.1,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1092.9,
+            "diff": -42.90000000000009
+        },
+        "numTrans": 2,
+        "tradedShares": 50,
+        "amount": 53027.5,
+        "indicators": {
+            "SMA": 1087.0349999999999,
+            "EMA": 1078.7970612720824,
+            "RSI": 46.83807231938741,
+            "MACD": 3.934533566897926,
+            "MACD_Signal": 11.429764318647544,
+            "MACD_Hist": -7.495230751749618,
+            "BB_High": 1171.2621755432872,
+            "BB_Low": 1002.8078244567125,
+            "BB_Mid": 1087.0349999999999
+        }
+    },
+    "2024-08-06": {
+        "price": {
+            "open": 1050,
+            "max": 1060,
+            "min": 1050,
+            "close": 1060,
+            "prevClose": 1050,
+            "diff": 10
+        },
+        "numTrans": 2,
+        "tradedShares": 26,
+        "amount": 27570,
+        "indicators": {
+            "SMA": 1086.6349999999998,
+            "EMA": 1077.0068649604555,
+            "RSI": 48.15864372307291,
+            "MACD": 2.095626734385405,
+            "MACD_Signal": 9.562936801795116,
+            "MACD_Hist": -7.467310067409711,
+            "BB_High": 1171.2948434914672,
+            "BB_Low": 1001.9751565085325,
+            "BB_Mid": 1086.6349999999998
+        }
+    },
+    "2024-08-08": {
+        "price": {
+            "open": 1046,
+            "max": 1046,
+            "min": 1046,
+            "close": 1046,
+            "prevClose": 1060,
+            "diff": -14
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26150,
+        "indicators": {
+            "SMA": 1085.435,
+            "EMA": 1074.053830202317,
+            "RSI": 46.420121833139476,
+            "MACD": -0.4858031399119227,
+            "MACD_Signal": 7.553188813453708,
+            "MACD_Hist": -8.038991953365631,
+            "BB_High": 1171.6697093692542,
+            "BB_Low": 999.2002906307457,
+            "BB_Mid": 1085.435
+        }
+    },
+    "2024-08-11": {
+        "price": {
+            "open": 1050,
+            "max": 1050,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1046,
+            "diff": 4
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26250,
+        "indicators": {
+            "SMA": 1083.685,
+            "EMA": 1071.7629892306677,
+            "RSI": 47.0087308032607,
+            "MACD": -2.183666395957971,
+            "MACD_Signal": 5.605817771571372,
+            "MACD_Hist": -7.789484167529343,
+            "BB_High": 1171.2935903322257,
+            "BB_Low": 996.0764096677742,
+            "BB_Mid": 1083.685
+        }
+    },
+    "2024-08-12": {
+        "price": {
+            "open": 1055,
+            "max": 1055,
+            "min": 1055,
+            "close": 1055,
+            "prevClose": 1050,
+            "diff": 5
+        },
+        "numTrans": 1,
+        "tradedShares": 140,
+        "amount": 147700,
+        "indicators": {
+            "SMA": 1082.185,
+            "EMA": 1070.1665140658422,
+            "RSI": 47.78096440991211,
+            "MACD": -3.090155654729415,
+            "MACD_Signal": 3.8666230863112148,
+            "MACD_Hist": -6.95677874104063,
+            "BB_High": 1170.675028251774,
+            "BB_Low": 993.6949717482258,
+            "BB_Mid": 1082.185
+        }
+    },
+    "2024-08-13": {
+        "price": {
+            "open": 1050.1,
+            "max": 1050.1,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1055,
+            "diff": -5
+        },
+        "numTrans": 2,
+        "tradedShares": 25,
+        "amount": 26251.5,
+        "indicators": {
+            "SMA": 1080.685,
+            "EMA": 1068.2458936786193,
+            "RSI": 47.04268432275357,
+            "MACD": -4.164012986761463,
+            "MACD_Signal": 2.2604958716966794,
+            "MACD_Hist": -6.424508858458143,
+            "BB_High": 1170.2824614595736,
+            "BB_Low": 991.0875385404263,
+            "BB_Mid": 1080.685
+        }
+    },
+    "2024-08-14": {
+        "price": {
+            "open": 1050,
+            "max": 1050,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1050,
+            "diff": 0
+        },
+        "numTrans": 3,
+        "tradedShares": 171,
+        "amount": 179550,
+        "indicators": {
+            "SMA": 1078.435,
+            "EMA": 1066.508189518751,
+            "RSI": 47.04268432275357,
+            "MACD": -4.957901061866323,
+            "MACD_Signal": 0.8168164849840789,
+            "MACD_Hist": -5.774717546850402,
+            "BB_High": 1168.7388487551875,
+            "BB_Low": 988.1311512448124,
+            "BB_Mid": 1078.435
+        }
+    },
+    "2024-08-29": {
+        "price": {
+            "open": 1060,
+            "max": 1060,
+            "min": 1060,
+            "close": 1060,
+            "prevClose": 1050,
+            "diff": 10
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26500,
+        "indicators": {
+            "SMA": 1076.935,
+            "EMA": 1065.8883619455364,
+            "RSI": 48.87499441792164,
+            "MACD": -4.725672048778961,
+            "MACD_Signal": -0.29168122176852906,
+            "MACD_Hist": -4.433990827010431,
+            "BB_High": 1167.4170705996487,
+            "BB_Low": 986.4529294003513,
+            "BB_Mid": 1076.935
+        }
+    },
+    "2024-09-02": {
+        "price": {
+            "open": 1053.1,
+            "max": 1053.1,
+            "min": 1053.1,
+            "close": 1053.1,
+            "prevClose": 1060,
+            "diff": -6.900000000000091
+        },
+        "numTrans": 1,
+        "tradedShares": 15,
+        "amount": 15796.5,
+        "indicators": {
+            "SMA": 1076.09,
+            "EMA": 1064.6704227126281,
+            "RSI": 47.64990215144385,
+            "MACD": -5.04029977871005,
+            "MACD_Signal": -1.2414049331568333,
+            "MACD_Hist": -3.798894845553217,
+            "BB_High": 1167.1292860253188,
+            "BB_Low": 985.0507139746811,
+            "BB_Mid": 1076.09
+        }
+    },
+    "2024-09-10": {
+        "price": {
+            "open": 1053.1,
+            "max": 1053.1,
+            "min": 1053.1,
+            "close": 1053.1,
+            "prevClose": 1053.1,
+            "diff": 0
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26327.5,
+        "indicators": {
+            "SMA": 1074.495,
+            "EMA": 1063.5684776923779,
+            "RSI": 47.64990215144385,
+            "MACD": -5.22936367220359,
+            "MACD_Signal": -2.038996680966185,
+            "MACD_Hist": -3.190366991237405,
+            "BB_High": 1165.9707120770306,
+            "BB_Low": 983.0192879229692,
+            "BB_Mid": 1074.495
+        }
+    },
+    "2024-09-23": {
+        "price": {
+            "open": 1050,
+            "max": 1050,
+            "min": 1050,
+            "close": 1050,
+            "prevClose": 1053.1,
+            "diff": -3.099999999999909
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26250,
+        "indicators": {
+            "SMA": 1073.745,
+            "EMA": 1062.2762417216752,
+            "RSI": 47.03558785331997,
+            "MACD": -5.56519021357667,
+            "MACD_Signal": -2.744235387488282,
+            "MACD_Hist": -2.8209548260883883,
+            "BB_High": 1165.7641605047547,
+            "BB_Low": 981.725839495245,
+            "BB_Mid": 1073.745
+        }
+    },
+    "2024-09-24": {
+        "price": {
+            "open": 1065,
+            "max": 1065,
+            "min": 1065,
+            "close": 1065,
+            "prevClose": 1050,
+            "diff": 15
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26625,
+        "indicators": {
+            "SMA": 1071.645,
+            "EMA": 1062.5356472719918,
+            "RSI": 50.369768742509365,
+            "MACD": -4.568300008514825,
+            "MACD_Signal": -3.109048311693591,
+            "MACD_Hist": -1.4592516968212341,
+            "BB_High": 1162.441486165489,
+            "BB_Low": 980.8485138345109,
+            "BB_Mid": 1071.645
+        }
+    },
+    "2024-09-25": {
+        "price": {
+            "open": 1051,
+            "max": 1051,
+            "min": 1051,
+            "close": 1051,
+            "prevClose": 1065,
+            "diff": -14
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26275,
+        "indicators": {
+            "SMA": 1066.945,
+            "EMA": 1061.437014198469,
+            "RSI": 47.372324215830794,
+            "MACD": -4.852009391916226,
+            "MACD_Signal": -3.4576405277381186,
+            "MACD_Hist": -1.3943688641781078,
+            "BB_High": 1151.589514884308,
+            "BB_Low": 982.3004851156918,
+            "BB_Mid": 1066.945
+        }
+    },
+    "2024-10-09": {
+        "price": {
+            "open": 1050.5,
+            "max": 1050.5,
+            "min": 1050.5,
+            "close": 1050.5,
+            "prevClose": 1051,
+            "diff": -0.5
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26262.5,
+        "indicators": {
+            "SMA": 1057.75,
+            "EMA": 1060.3953937986148,
+            "RSI": 47.264146037206665,
+            "MACD": -5.058881308918444,
+            "MACD_Signal": -3.777888683974184,
+            "MACD_Hist": -1.2809926249442602,
+            "BB_High": 1093.420071488573,
+            "BB_Low": 1022.079928511427,
+            "BB_Mid": 1057.75
+        }
+    },
+    "2024-10-17": {
+        "price": {
+            "open": 1071.5,
+            "max": 1071.5,
+            "min": 1071.5,
+            "close": 1071.5,
+            "prevClose": 1050.5,
+            "diff": 21
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26787.5,
+        "indicators": {
+            "SMA": 1055.52,
+            "EMA": 1061.4529753416039,
+            "RSI": 52.20118006650025,
+            "MACD": -3.4880957019097423,
+            "MACD_Signal": -3.7199300875612957,
+            "MACD_Hist": 0.23183438565155345,
+            "BB_High": 1080.2046186926175,
+            "BB_Low": 1030.8353813073825,
+            "BB_Mid": 1055.52
+        }
+    },
+    "2024-10-21": {
+        "price": {
+            "open": 1065,
+            "max": 1065,
+            "min": 1065,
+            "close": 1065,
+            "prevClose": 1071.5,
+            "diff": -6.5
+        },
+        "numTrans": 1,
+        "tradedShares": 25,
+        "amount": 26625,
+        "indicators": {
+            "SMA": 1056.2649999999999,
+            "EMA": 1061.7907872138321,
+            "RSI": 50.62148322819588,
+            "MACD": -2.7361913579352404,
+            "MACD_Signal": -3.523182341636085,
+            "MACD_Hist": 0.7869909837008446,
+            "BB_High": 1081.148912473723,
+            "BB_Low": 1031.3810875262768,
+            "BB_Mid": 1056.2649999999999
+        }
+    }
+}
