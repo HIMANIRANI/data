@@ -1,13 +1,17 @@
 import os
 import json
+import torch
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 from langchain_huggingface import HuggingFaceEmbeddings
 
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+print
 # 1. Load the embedding model
 embedding_model = HuggingFaceEmbeddings(
     model_name='sentence-transformers/all-mpnet-base-v2',
-    model_kwargs={'device': 'cpu'}
+    model_kwargs={'device': device}
 )
 
 # 2. Prepare documents
